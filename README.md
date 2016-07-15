@@ -1,2 +1,1 @@
-# tfgordon.github.io
-Thomas F. Gordon's Homepage
+These are the source files of Tom Gordon's home page.
