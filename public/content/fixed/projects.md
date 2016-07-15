@@ -1,0 +1,20 @@
+{
+  "title": "Projects",
+  "sidebar": true,
+  "weight": 4
+}
+
+- [Carneades](https://carneades.github.io/) – Argument construction,
+  evaluation and visualization.  graphical user interface, and a
+  software library for building applications supporting various
+  argumentation tasks.
+- DEMO-net – A European "network of excellence" on the subject of
+  eDemocracy and eParticipation.
+- [EAGLE](http://www.eagle-learning.eu/) – Enhanced Government Learning
+- [Estrella](http://lawin.org/estrella-project/) – A European project to develop an open, standards-based platform for Legal Knowledge Systems.
+- [IMPACT](http://www.policy-impact.eu/) – Integrated Method for Policy Making Using Argument Modelling and Computer Assisted Text Analysis
+- Qualipso – Quality Platform for Open Source Software
+- [MARKOS](http://www.markosproject.eu/) – The Market for Open Source Software.
+- [Policy Compass](http://www.policycompass.eu/) – Open Data-Driven
+  Analysis and Impact Evaluation
+- [SPOCS](http://www.eu-spocs.eu/) – Building the next generation Points of Single Contact
