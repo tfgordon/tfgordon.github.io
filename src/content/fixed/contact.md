@@ -4,7 +4,7 @@
   "weight": 4
 }
 
-Prof. Thomas F. Gordon   
+Prof. Dr. Thomas F. Gordon   
 [Fraunhofer FOKUS](http://www.fokus.fraunhofer.de)   
 Kaiserin-Augusta-Allee 31   
 10589 Berlin, Germany   
