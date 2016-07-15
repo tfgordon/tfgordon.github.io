@@ -6,6 +6,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 hugo
 
 # Add changes to git.
+cd ..
 git add -A
 
 # Commit changes.
