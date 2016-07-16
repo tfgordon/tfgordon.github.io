@@ -40,7 +40,7 @@ paginate = 10
     url = "/post/"
   [[menu.main]]
     name = "About"
-    pre = "<i class='fa fa-user fa-fw'></i>"
+    pre = "<i class='fa fa-file fa-fw'></i>"
     weight = 2
     identifier = "about"
     url = "/about/"
@@ -52,31 +52,31 @@ paginate = 10
     url = "/resume/"
   [[menu.main]]
     name = "Publications"
-    pre = "<i class='fa fa-user fa-fw'></i>"
+    pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 5
     identifier = "publications"
     url = "/publications/"
   [[menu.main]]
     name = "Software"
-    pre = "<i class='fa fa-user fa-fw'></i>"
+    pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 5
     identifier = "software"
     url = "/software/"
   [[menu.main]]
     name = "Projects"
-    pre = "<i class='fa fa-user fa-fw'></i>"
+    pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 6
     identifier = "projects"
     url = "/projects/"
   [[menu.main]]
     name = "Service"
-    pre = "<i class='fa fa-user fa-fw'></i>"
+    pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 7
     identifier = "service"
     url = "/professional-service/"
   [[menu.main]]
     name = "Related"
-    pre = "<i class='fa fa-user fa-fw'></i>"
+    pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 8
     identifier = "related"
     url = "/related/"
