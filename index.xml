@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2015 Thomas F. Gordon. Creative Commons Attribution-ShareAlike 4.0 International License </copyright>
-    <lastBuildDate>Sat, 16 Jul 2016 07:08:41 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jul 2016 07:56:14 +0200</lastBuildDate>
     <atom:link href="https://tfgordon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>COMMA 2016 Program</title>
+      <link>https://tfgordon.github.io/2016/07/16/comma-2016-program/</link>
+      <pubDate>Sat, 16 Jul 2016 07:56:14 +0200</pubDate>
+      
+      <guid>https://tfgordon.github.io/2016/07/16/comma-2016-program/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;http://www.ling.uni-potsdam.de/comma2016/index.php?page=program.ph&#34;&gt;program&lt;/a&gt;
+of the 2016 Conference on Computational Models of Argument (&lt;a href=&#34;p
+http://www.ling.uni-potsdam.de/comma2016/&#34;&gt;COMMA&lt;/a&gt; is now online.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Slides of my 2007 ICAIL Keynote Address</title>
