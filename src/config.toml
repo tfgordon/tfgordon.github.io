@@ -46,7 +46,7 @@ paginate = 10
     url = "/about/"
   [[menu.main]]
     name = "Resume"
-    pre = "<i class='fa fa-user fa-fw'></i>"
+    pre = "<i class='fa fa-file fa-fw'></i>"
     weight = 3
     identifier = "resume"
     url = "/resume/"
