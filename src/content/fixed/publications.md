@@ -6,6 +6,16 @@
 
 In reverse chronological order:
 
+# 2016
+
+- Gordon, Thomas F. (2016). Arguing about Open Source Licensing Issues
+  on the Web. In (Paglieri, Fabio and Reed, Chris, Eds.),
+  Arguing on the Web: Theory, Analysis, and Applications. In preparation.
+  College Publications.
+- Gordon, Thomas F. and Walton, Douglas (2016). Formalizing Balancing
+  Arguments. Proceeding of the 2016 conference on Computational Models
+  of Argument (COMMA 2016) (pp. ). IOS Press.
+
 # 2015
 
 - Walton, Douglas and Gordon, Thomas F. (2015). [Formalizing Informal Logic](http://ojs.uwindsor.ca/ojs/leddy/index.php/informal_logic/article/view/4335/3660). Informal Logic, 35(4), 508-538.
@@ -155,6 +165,7 @@ In reverse chronological order:
 
 # 2007
 
+- Gordon, T. F. (2007). [20 Years of ICAIL: Reflections on the Field of AI and Law. International Conference on Artificial Intelligence and Law (ICAIL 2007)](https://owncloud.fokus.fraunhofer.de/index.php/s/v14TktIJgxTlU26). ([OpenDocument format](https://owncloud.fokus.fraunhofer.de/index.php/s/8kwKLYC4fwWuRsk)) License: Attribution-ShareAlike 4.0 International.
 - Gordon, T. F. [Visualizing Carneades argument graphs](https://owncloud.fokus.fraunhofer.de/index.php/s/iAcBcm79bplcrKO). Law,
   Probability and Risk 6, 1-4 (2007), 109–117.
 - Gordon, T. F. [Constructing arguments with a computational model of

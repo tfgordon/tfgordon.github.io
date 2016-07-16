@@ -7,8 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2015 Thomas F. Gordon. Creative Commons Attribution-ShareAlike 4.0 International License </copyright>
-    <lastBuildDate>Mon, 23 Feb 2015 13:50:19 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jul 2016 07:08:41 +0200</lastBuildDate>
     <atom:link href="https://tfgordon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>icail2007keynote</title>
+      <link>https://tfgordon.github.io/2016/07/16/icail2007keynote/</link>
+      <pubDate>Sat, 16 Jul 2016 07:08:41 +0200</pubDate>
+      
+      <guid>https://tfgordon.github.io/2016/07/16/icail2007keynote/</guid>
+      <description>&lt;p&gt;Occassionally I get asked for copies of the slides of my keynote
+addess at the 2007 International Conference on Artificial Intelligence
+and Law at Stanford University, with the title &amp;ldquo;20 Years of ICAIL –
+Reflections on the Field of AI and Law&amp;rdquo;. They are now online, in &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/v14TktIJgxTlU26&#34;&gt;PDF&lt;/a&gt;
+and editable &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/8kwKLYC4fwWuRsk&#34;&gt;OpenDocument&lt;/a&gt; formats. (License: Creative Commons
+Attribution-ShareAlike 4.0 International)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>RuleML Call for Papers</title>
@@ -234,7 +249,7 @@ verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Artificial Intelligence and Law; Springer Verlag;
 Heidelberg (1992-2015)&lt;/li&gt;
-&lt;li&gt;Argument and Computation; Taylor and Francis; London&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://content.iospress.com/journals/argument-and-computation&#34;&gt;Argument and Computation&lt;/a&gt;; IOS Press; Amsterdam&lt;/li&gt;
 &lt;li&gt;Artificial Intelligence Dissertations (DISKI)
 Akademische Verlagsgesellschaft (AKA); Berlin&lt;/li&gt;
 &lt;li&gt;Encyclopedia of Digital Government; Idea Group&lt;/li&gt;
@@ -244,12 +259,12 @@ Akademische Verlagsgesellschaft (AKA); Berlin&lt;/li&gt;
 &lt;h1 id=&#34;associations&#34;&gt;Associations&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Vice President; International Association for Artificial
-Intelligence and Law (IAAIL), 2004-2006.&lt;/li&gt;
-&lt;li&gt;President; International Association for Artificial Intelligence and
-Law (IAAIL), 2006-2008.&lt;/li&gt;
-&lt;li&gt;Vice President; Steering Committee of the Computational Models of
-Argument (COMMA 2008) conference; 2008-2010.&lt;/li&gt;
+&lt;li&gt;Vice President; &lt;a href=&#34;http://iaail.org/&#34;&gt;International Association for Artificial
+Intelligence and Law&lt;/a&gt; (IAAIL), 2004-2006.&lt;/li&gt;
+&lt;li&gt;President; &lt;a href=&#34;http://iaail.org/&#34;&gt;International Association for Artificial Intelligence and
+Law&lt;/a&gt; (IAAIL), 2006-2008.&lt;/li&gt;
+&lt;li&gt;Vice President; Steering Committee of the &lt;a href=&#34;http://comma.csc.liv.ac.uk/&#34;&gt;Computational Models of
+Argument&lt;/a&gt; (COMMA) conference; 2008-2010.&lt;/li&gt;
 &lt;li&gt;Stv. Sprecher; Fachbereich Informatik in Recht und Öffentlicher
 Verwaltung der Gesellschaft für Informaik, 2011?-2015.&lt;/li&gt;
 &lt;/ul&gt;
@@ -861,6 +876,18 @@ Society for Informatics&lt;/li&gt;
 
 &lt;p&gt;In reverse chronological order:&lt;/p&gt;
 
+&lt;h1 id=&#34;2016&#34;&gt;2016&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gordon, Thomas F. (2016). Arguing about Open Source Licensing Issues
+on the Web. In (Paglieri, Fabio and Reed, Chris, Eds.),
+Arguing on the Web: Theory, Analysis, and Applications. In preparation.
+College Publications.&lt;/li&gt;
+&lt;li&gt;Gordon, Thomas F. and Walton, Douglas (2016). Formalizing Balancing
+Arguments. Proceeding of the 2016 conference on Computational Models
+of Argument (COMMA 2016) (pp. ). IOS Press.&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;2015&#34;&gt;2015&lt;/h1&gt;
 
 &lt;ul&gt;
@@ -1027,6 +1054,7 @@ Argument (CMNA 08) (July 2008).&lt;/li&gt;
 &lt;h1 id=&#34;2007&#34;&gt;2007&lt;/h1&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Gordon, T. F. (2007). &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/v14TktIJgxTlU26&#34;&gt;20 Years of ICAIL: Reflections on the Field of AI and Law. International Conference on Artificial Intelligence and Law (ICAIL 2007)&lt;/a&gt;. (&lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/8kwKLYC4fwWuRsk&#34;&gt;OpenDocument format&lt;/a&gt;) License: Attribution-ShareAlike 4.0 International.&lt;/li&gt;
 &lt;li&gt;Gordon, T. F. &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/iAcBcm79bplcrKO&#34;&gt;Visualizing Carneades argument graphs&lt;/a&gt;. Law,
 Probability and Risk 6, 1-4 (2007), 109–117.&lt;/li&gt;
 &lt;li&gt;Gordon, T. F. &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/Zf4BAt1xDpJw5xl&#34;&gt;Constructing arguments with a computational model of

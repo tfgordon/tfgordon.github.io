@@ -8,7 +8,7 @@
 
 - Artificial Intelligence and Law; Springer Verlag;
   Heidelberg (1992-2015)
-- Argument and Computation; Taylor and Francis; London
+- [Argument and Computation](http://content.iospress.com/journals/argument-and-computation); IOS Press; Amsterdam
 - Artificial Intelligence Dissertations (DISKI)
   Akademische Verlagsgesellschaft (AKA); Berlin
 - Encyclopedia of Digital Government; Idea Group
@@ -16,12 +16,12 @@
 
 # Associations
 
-- Vice President; International Association for Artificial
-  Intelligence and Law (IAAIL), 2004-2006.
-- President; International Association for Artificial Intelligence and
-  Law (IAAIL), 2006-2008.
-- Vice President; Steering Committee of the Computational Models of
-  Argument (COMMA 2008) conference; 2008-2010.
+- Vice President; [International Association for Artificial
+  Intelligence and Law](http://iaail.org/) (IAAIL), 2004-2006.
+- President; [International Association for Artificial Intelligence and
+  Law](http://iaail.org/) (IAAIL), 2006-2008.
+- Vice President; Steering Committee of the [Computational Models of
+  Argument](http://comma.csc.liv.ac.uk/) (COMMA) conference; 2008-2010.
 - Stv. Sprecher; Fachbereich Informatik in Recht und Öffentlicher
   Verwaltung der Gesellschaft für Informaik, 2011?-2015.
 
