@@ -2,7 +2,6 @@
 date = "2015-02-23T13:50:19+01:00"
 draft = false
 title = "RuleML Call for Papers"
-
 +++
 
 The submission deadline for the [RuleML
@@ -12,3 +11,5 @@ is an "international conference on research, applications, languages
 and standards for rule technologies".  RuleML 2015 takes place from
 August 2-5, 2015, at the Free University of Berlin, in Berlin,
 Germany.
+<!--more-->
+
