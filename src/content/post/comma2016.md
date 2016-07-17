@@ -7,8 +7,8 @@ title = "COMMA 2016 Program"
 topics = []
 +++
 
-The [program](http://www.ling.uni-potsdam.de/comma2016/index.php?page=program.ph)
-of the 2016 Conference on Computational Models of Argument ([COMMA](p
+The [program](http://www.ling.uni-potsdam.de/comma2016/index.php?page=program.php)
+of the 2016 Conference on Computational Models of Argument ([COMMA](
 http://www.ling.uni-potsdam.de/comma2016/) is now online. 
 
 <!--more-->
