@@ -201,7 +201,7 @@ verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.&lt;/p&gt;
       <guid>https://tfgordon.github.io/professional-service/</guid>
       <description>
 
-&lt;h1 id=&#34;editorial-boards&#34;&gt;Editorial Boards&lt;/h1&gt;
+&lt;h1 id=&#34;editorial-boards:ef6aecc285106a598c7096cbbb941d63&#34;&gt;Editorial Boards&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Artificial Intelligence and Law; Springer Verlag;
@@ -213,7 +213,7 @@ Akademische Verlagsgesellschaft (AKA); Berlin&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.collegepublications.co.uk/journals/ifcolog/&#34;&gt;IfColog Journal of Logics and their Applications&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;associations&#34;&gt;Associations&lt;/h1&gt;
+&lt;h1 id=&#34;associations:ef6aecc285106a598c7096cbbb941d63&#34;&gt;Associations&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Vice President; &lt;a href=&#34;http://iaail.org/&#34;&gt;International Association for Artificial
@@ -226,7 +226,7 @@ Argument&lt;/a&gt; (COMMA) conference; 2008-2010.&lt;/li&gt;
 Verwaltung der Gesellschaft für Informaik, 2011?-2015.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;program-chair&#34;&gt;Program Chair&lt;/h1&gt;
+&lt;h1 id=&#34;program-chair:ef6aecc285106a598c7096cbbb941d63&#34;&gt;Program Chair&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;GI Workshop on Cooperative Legal Information Systems, Vienna,
@@ -245,9 +245,9 @@ Arts et Métiers (ENSAM); Paris; 19-20 September 2005 (Co-Chair with
 Danielle Bourcier)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;program-committees&#34;&gt;Program Committees&lt;/h1&gt;
+&lt;h1 id=&#34;program-committees:ef6aecc285106a598c7096cbbb941d63&#34;&gt;Program Committees&lt;/h1&gt;
 
-&lt;h2 id=&#34;argumentation&#34;&gt;Argumentation&lt;/h2&gt;
+&lt;h2 id=&#34;argumentation:ef6aecc285106a598c7096cbbb941d63&#34;&gt;Argumentation&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;International Conference on Computational Models of Argument
@@ -257,7 +257,7 @@ Danielle Bourcier)&lt;/li&gt;
 &lt;li&gt;Theory and Applications of Formal Argumentation (TAFA)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;ai-and-law-egovernment&#34;&gt;AI and Law, eGovernment&lt;/h2&gt;
+&lt;h2 id=&#34;ai-and-law-egovernment:ef6aecc285106a598c7096cbbb941d63&#34;&gt;AI and Law, eGovernment&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Legal Knowledge and Information Systems (JURIX)&lt;/li&gt;
@@ -275,7 +275,7 @@ Danielle Bourcier)&lt;/li&gt;
 &lt;li&gt;International Conference on Alternative Methods of Argumentation in Law&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;eparticipation-and-online-dispute-resolution&#34;&gt;eParticipation and Online Dispute Resolution&lt;/h2&gt;
+&lt;h2 id=&#34;eparticipation-and-online-dispute-resolution:ef6aecc285106a598c7096cbbb941d63&#34;&gt;eParticipation and Online Dispute Resolution&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;eDemocracy Workshop of the Informatik 2003 Conference of the German
@@ -287,7 +287,7 @@ Society for Informatics&lt;/li&gt;
 &lt;li&gt;IADIS International Conference  e-Democracy, Equity and Social Justice&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt;
+&lt;h2 id=&#34;other:ef6aecc285106a598c7096cbbb941d63&#34;&gt;Other&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Legislative XML Summer School&lt;/li&gt;
@@ -833,19 +833,23 @@ Society for Informatics&lt;/li&gt;
 
 &lt;p&gt;In reverse chronological order:&lt;/p&gt;
 
-&lt;h1 id=&#34;2016&#34;&gt;2016&lt;/h1&gt;
+&lt;h1 id=&#34;2016:480c4de99851329b51acecc000e2e84f&#34;&gt;2016&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F. (2016). Arguing about Open Source Licensing Issues
-on the Web. In (Paglieri, Fabio and Reed, Chris, Eds.),
-Arguing on the Web: Theory, Analysis, and Applications. In preparation.
+on the Web. In (Paglieri, Fabio and Reed, Chris, Eds.), Arguing on
+the Web: Theory, Analysis, and Applications. In preparation.
 College Publications.&lt;/li&gt;
-&lt;li&gt;Gordon, Thomas F. and Walton, Douglas (2016). Formalizing Balancing
-Arguments. Proceeding of the 2016 conference on Computational Models
-of Argument (COMMA 2016) (pp. ). IOS Press.&lt;/li&gt;
+&lt;li&gt;Gordon, Thomas F. and Walton, Douglas
+(2016). &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/yllKhe3qliiHHRK&#34;&gt;Formalizing Balancing Arguments&lt;/a&gt;. Proceeding
+of the 2016 conference on Computational Models of Argument (COMMA
+2016) (pp. 327-338): IOS Press. &lt;strong&gt;Note&lt;/strong&gt;: This version corrects an error
+in Definition 7 (Applicable Argument). The conference proceedings
+includes the
+&lt;a href=&#34;http://ebooks.iospress.nl/volumearticle/45272&#34;&gt;uncorrected verson&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;2015&#34;&gt;2015&lt;/h1&gt;
+&lt;h1 id=&#34;2015:480c4de99851329b51acecc000e2e84f&#34;&gt;2015&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Walton, Douglas and Gordon, Thomas F. (2015). &lt;a href=&#34;http://ojs.uwindsor.ca/ojs/leddy/index.php/informal_logic/article/view/4335/3660&#34;&gt;Formalizing Informal Logic&lt;/a&gt;. Informal Logic, 35(4), 508-538.&lt;/li&gt;
@@ -866,7 +870,7 @@ abstract argumentation : essays dedicated to Gerhard Brewka on the
 occasion of his 60th birthday, 356&amp;ndash;359. Vol. 9060: Springer.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;2014&#34;&gt;2014&lt;/h1&gt;
+&lt;h1 id=&#34;2014:480c4de99851329b51acecc000e2e84f&#34;&gt;2014&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F.. &amp;ldquo;&lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/ZZrCfg6cOWqqjzR&#34;&gt;A Demonstration of the MARKOS License Analyser.&amp;rdquo;
@@ -878,7 +882,7 @@ Recent Argumentation Methods to Some Ancient Examples of Plausible
 Reasoning&lt;/a&gt;&amp;rsquo;, Argumentation 28(1), 85–119. (Doi: 10.1007/s10503-013-9306-y.)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;2013&#34;&gt;2013&lt;/h1&gt;
+&lt;h1 id=&#34;2013:480c4de99851329b51acecc000e2e84f&#34;&gt;2013&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, T. F. (2013). &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/4AsY0wsnHO660ds&#34;&gt;Structured Consultation with Argument
@@ -891,7 +895,7 @@ Artificial Intelligence and Law (ICAIL 2013)&amp;lsquo;, ACM Press,
 pp. 243–244.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;2012&#34;&gt;2012&lt;/h1&gt;
+&lt;h1 id=&#34;2012:480c4de99851329b51acecc000e2e84f&#34;&gt;2012&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Ceci, M., and Gordon,  T. F. &lt;a href=&#34;http://ceur-ws.org/Vol-874/paper8.pdf&#34;&gt;Browsing case-law: An application of the Carneades argumentation system&lt;/a&gt;. In
@@ -912,7 +916,7 @@ Hayashi&lt;/a&gt;. Artificial Intelligence and Law 20, 1 (2012),
 37–56. doi:10.1007/s10506-012-9120-0&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;2011&#34;&gt;2011&lt;/h1&gt;
+&lt;h1 id=&#34;2011:480c4de99851329b51acecc000e2e84f&#34;&gt;2011&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F. 2011. &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/J1zpf03WaEtcBl9&#34;&gt;The Policy Modeling Tool of the IMPACT
@@ -932,7 +936,7 @@ International Society for the Study of Argumentation (ISSA 2010)
 (pp. 644-655). Amsterdam: Sic Sac.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;2010&#34;&gt;2010&lt;/h1&gt;
+&lt;h1 id=&#34;2010:480c4de99851329b51acecc000e2e84f&#34;&gt;2010&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, T.F. &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/YjOY9jZHKny2yDH&#34;&gt;Report on a Prototype Decision Support System for OSS
@@ -955,7 +959,7 @@ Networks&lt;/a&gt;. Computational Models of Argument – Proceedings of COMMA
 2010, IOS Press (2010), 255–266.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;2009&#34;&gt;2009&lt;/h1&gt;
+&lt;h1 id=&#34;2009:480c4de99851329b51acecc000e2e84f&#34;&gt;2009&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, T.F. &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/FFoCZ1RIJIug1r7&#34;&gt;Foundations of Argumentation Technology – Summary of
@@ -993,7 +997,7 @@ support for e-participation&lt;/a&gt;. Journal of Information Technology &amp;am
 Politics 6, 1 (2009), 43–59.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;2008&#34;&gt;2008&lt;/h1&gt;
+&lt;h1 id=&#34;2008:480c4de99851329b51acecc000e2e84f&#34;&gt;2008&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, T. F. &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/dLRcDRyb4uDk7AI&#34;&gt;Constructing legal arguments with rules in the legal
@@ -1008,7 +1012,7 @@ Proceedings of the 8th Workshop on Computational Models of Natural
 Argument (CMNA 08) (July 2008).&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;2007&#34;&gt;2007&lt;/h1&gt;
+&lt;h1 id=&#34;2007:480c4de99851329b51acecc000e2e84f&#34;&gt;2007&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, T. F. (2007). &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/v14TktIJgxTlU26&#34;&gt;20 Years of ICAIL: Reflections on the Field of AI and Law. International Conference on Artificial Intelligence and Law (ICAIL 2007)&lt;/a&gt;. (&lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/8kwKLYC4fwWuRsk&#34;&gt;OpenDocument format&lt;/a&gt;) License: Attribution-ShareAlike 4.0 International.&lt;/li&gt;
@@ -1030,7 +1034,7 @@ technologies&lt;/a&gt;. Technical report, DemoNet – EU IST Network of
 Excellence.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;2006&#34;&gt;2006&lt;/h1&gt;
+&lt;h1 id=&#34;2006:480c4de99851329b51acecc000e2e84f&#34;&gt;2006&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, T. F., and Walton, D. &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/OG6QcjS1kqJKLvc&#34;&gt;Pierson vs. Post revisted — a
@@ -1048,7 +1052,7 @@ Hershey, Pennsylvania, 2006, ch. &lt;a href=&#34;https://owncloud.fokus.fraunhof
 pp. 1161–1166.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;2005&#34;&gt;2005&lt;/h1&gt;
+&lt;h1 id=&#34;2005:480c4de99851329b51acecc000e2e84f&#34;&gt;2005&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, T. F. &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/jQw8vdiJbIhMSYq&#34;&gt;Information technology for good governance&lt;/a&gt;. In
@@ -1079,7 +1083,7 @@ der Rechtsinformatik (2005), E. Schweighofer, D. Liebwald,
 S. Augeneder, and T. Menzel, Eds., Boorberg-Verlag, pp. 379–386.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;2004&#34;&gt;2004&lt;/h1&gt;
+&lt;h1 id=&#34;2004:480c4de99851329b51acecc000e2e84f&#34;&gt;2004&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F., ed. Legal Knowledge and Information Systems –
@@ -1092,7 +1096,7 @@ Adminsitration&lt;/a&gt;.&amp;rdquo; Knowledge-Based Services for the Public
 Sector. Ed. Donato Malerba. Bonn, 2004.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;2003&#34;&gt;2003&lt;/h1&gt;
+&lt;h1 id=&#34;2003:480c4de99851329b51acecc000e2e84f&#34;&gt;2003&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F. &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/3x99WFm6zu7NnYW&#34;&gt;On the Need for Standard Document Formats for
@@ -1107,7 +1111,7 @@ Public Discourse&lt;/a&gt;. Informatik 2003. Eds. Klaus Dittrich, et
 al. Frankfurt am Main: Springer Verlag, 2003. 232-34. Vol. 2.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;2002&#34;&gt;2002&lt;/h1&gt;
+&lt;h1 id=&#34;2002:480c4de99851329b51acecc000e2e84f&#34;&gt;2002&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F., and Oliver Märker. &amp;ldquo;&lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/JnUAUjGTt5bY9nj&#34;&gt;Mediation Systems .&amp;rdquo; Neue
@@ -1125,7 +1129,7 @@ University of Vienna, 2002.&lt;/li&gt;
 &lt;li&gt;Gordon, Thomas F., &amp;ldquo;&lt;a href=&#34;http://www.ercim.eu/publication/Ercim_News/enw48/intro.html&#34;&gt;Introduction to the ERCIM News Special Issue on E-Government&amp;rdquo;&lt;/a&gt;, ERCIM News, No. 48, January, 2002.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;2001&#34;&gt;2001&lt;/h1&gt;
+&lt;h1 id=&#34;2001:480c4de99851329b51acecc000e2e84f&#34;&gt;2001&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F., and Oliver Märker. &amp;ldquo;&lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/ezfs4ytBVwArU4e&#34;&gt;Mediation Systems .&amp;rdquo;
@@ -1138,7 +1142,7 @@ Märker. &amp;ldquo;&lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.p
 Intelligenz 2.1 (2001): 43-45.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;1999&#34;&gt;1999&lt;/h1&gt;
+&lt;h1 id=&#34;1999:480c4de99851329b51acecc000e2e84f&#34;&gt;1999&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Schmidt-Belz, Barbara, Thomas F. Gordon, and Hans Voss. &amp;ldquo;&lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/jtZ4J4WD3FGrTk1&#34;&gt;Urban
@@ -1150,7 +1154,7 @@ between Human and Artificial Societies, J. A. Padget, Ed., Springer
 Lecture Notes in AI. Berlin, 1999, pp. 246–263.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;1997&#34;&gt;1997&lt;/h1&gt;
+&lt;h1 id=&#34;1997:480c4de99851329b51acecc000e2e84f&#34;&gt;1997&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F., and Nikos Karacapilidis. &amp;ldquo;&lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/kUB9flRIBZDg7MX&#34;&gt;The Zeno Argumentation
@@ -1158,7 +1162,7 @@ Framework&lt;/a&gt;.&amp;rdquo; Proceedings of the Sixth International Conferenc
 Artificial Intelligence and Law. Melbourne, Austrailia, 1997. 10-18.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;1996&#34;&gt;1996&lt;/h1&gt;
+&lt;h1 id=&#34;1996:480c4de99851329b51acecc000e2e84f&#34;&gt;1996&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F. &amp;ldquo;&lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/LAwvUqsav5Vn4E3&#34;&gt;Computational Dialectics&lt;/a&gt;.&amp;rdquo; Computers as
@@ -1168,7 +1172,7 @@ Lawrence Erlbaum Associates, 1996. 186-203.&lt;/li&gt;
 Workshop on Computational Dialectics.&amp;rdquo; (1996).&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;1995&#34;&gt;1995&lt;/h1&gt;
+&lt;h1 id=&#34;1995:480c4de99851329b51acecc000e2e84f&#34;&gt;1995&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Brewka, Gerhard, Thomas F. Gordon, and Nikos
@@ -1183,7 +1187,7 @@ Manufacturing Systems,. Montreal, Canada, 1995. 239-50.&lt;/li&gt;
 Model of Procedural Justice. Dordrecht: Kluwer, 1995.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;1994&#34;&gt;1994&lt;/h1&gt;
+&lt;h1 id=&#34;1994:480c4de99851329b51acecc000e2e84f&#34;&gt;1994&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F. &amp;ldquo;Computational Dialectics.&amp;rdquo; Workshop Kooperative
@@ -1197,7 +1201,7 @@ Washington, 1994. 28-38.&lt;/li&gt;
 dialectics&lt;/a&gt;. Artificial Intelligence and Law 2, 4 (1994), 239–292.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;1993&#34;&gt;1993&lt;/h1&gt;
+&lt;h1 id=&#34;1993:480c4de99851329b51acecc000e2e84f&#34;&gt;1993&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas. F. &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/dwdzW36cS7SWaLK&#34;&gt;The Pleadings Game; formalizing procedural
@@ -1208,7 +1212,7 @@ Intelligence Model of Procedural Justice&lt;/a&gt;. PhD Thesis. Technical
 University of Darmstadt.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;1992&#34;&gt;1992&lt;/h1&gt;
+&lt;h1 id=&#34;1992:480c4de99851329b51acecc000e2e84f&#34;&gt;1992&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F. &amp;ldquo;&lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/9iImbc0agY5iSwj&#34;&gt;Artificial Intelligence: A Hermeneutic Defense .&amp;rdquo;
@@ -1220,14 +1224,14 @@ Assembly&lt;/a&gt;.&amp;rdquo; Expert Systems in Law. Ed. Antonio
 A. Martino. Amsterdam, 1992. 211-25.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;1991&#34;&gt;1991&lt;/h1&gt;
+&lt;h1 id=&#34;1991:480c4de99851329b51acecc000e2e84f&#34;&gt;1991&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F. &amp;ldquo;&lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/ciizaQddHMMa2eg&#34;&gt;An Abductive Theory of Legal Issues&lt;/a&gt;.&amp;rdquo;
 International Journal of Man-Machine Studies 35 (1991): 95-118.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;1989&#34;&gt;1989&lt;/h1&gt;
+&lt;h1 id=&#34;1989:480c4de99851329b51acecc000e2e84f&#34;&gt;1989&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F. &amp;ldquo;&lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/AGFhWycFP1rSS6Y&#34;&gt;Issue Spotting in a System for Searching
@@ -1235,7 +1239,7 @@ Interpretation Spaces&lt;/a&gt;.&amp;rdquo; Proceedings of the Second Internatio
 Conference on Artificial Intelligence and Law. 1989. 157-64.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;1988&#34;&gt;1988&lt;/h1&gt;
+&lt;h1 id=&#34;1988:480c4de99851329b51acecc000e2e84f&#34;&gt;1988&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F. &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/gsCdNG4nmvFoB5W&#34;&gt;The Argument Construction Set – A Constructive
@@ -1247,7 +1251,7 @@ Computer Law. Eds. H. Fiedler, F. Haft and
 R. Traunmüller. Tübingen, 1988. 111-26.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;1987&#34;&gt;1987&lt;/h1&gt;
+&lt;h1 id=&#34;1987:480c4de99851329b51acecc000e2e84f&#34;&gt;1987&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F. &amp;ldquo;&lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/MH1eTB7NKtHWYFB&#34;&gt;Oblog-2: A Hybrid Knowledge Representation System
@@ -1261,7 +1265,7 @@ als Paradigma wissensbasierter Systeme.&amp;rdquo; Tagungsband Wissensbasierte
 Systeme. Ed. W. Brauer and W. Wahlster, 1987.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;1986&#34;&gt;1986&lt;/h1&gt;
+&lt;h1 id=&#34;1986:480c4de99851329b51acecc000e2e84f&#34;&gt;1986&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gordon, Thomas F. &amp;ldquo;&lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/afHUGUh3YgKUKIm&#34;&gt;The Role of Exceptions in Models of the Law .&amp;rdquo;
@@ -1279,7 +1283,7 @@ Expertensysteme&lt;/a&gt;. Ed. R. Traunmüller H. Fiedler. Munich, 1986. 52-59.&
       <guid>https://tfgordon.github.io/resume/</guid>
       <description>
 
-&lt;h1 id=&#34;university-degrees-and-appointments&#34;&gt;University Degrees and Appointments&lt;/h1&gt;
+&lt;h1 id=&#34;university-degrees-and-appointments:c59a67a3c7bc5faa453847420267045e&#34;&gt;University Degrees and Appointments&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;University of California; B.A., Psychology; June, 1977&lt;/li&gt;
@@ -1291,7 +1295,7 @@ Mathematics and Natural Science, University of Potsdam, since 2010.&lt;/li&gt;
 &lt;li&gt;Technische Universität Berlin; Habilitation; Intelligent Systems; 2012&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;employment-history&#34;&gt;Employment History&lt;/h1&gt;
+&lt;h1 id=&#34;employment-history:c59a67a3c7bc5faa453847420267045e&#34;&gt;Employment History&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Research Scientist; Research Center for Information Law; Institute
@@ -1307,7 +1311,7 @@ Sankt Augustin, Germany; 1999 to 2000&lt;/li&gt;
 Communication Systems (FOKUS); Berlin, Germany; 2001 to present.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;awards&#34;&gt;Awards&lt;/h1&gt;
+&lt;h1 id=&#34;awards:c59a67a3c7bc5faa453847420267045e&#34;&gt;Awards&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Best Exhibit Prize; The Zeno Mediation System; 23rd German Annual
@@ -1378,7 +1382,7 @@ Analysis and Impact Evaluation&lt;/li&gt;
       <guid>https://tfgordon.github.io/related/</guid>
       <description>
 
-&lt;h1 id=&#34;organizations-and-conferences&#34;&gt;Organizations and Conferences&lt;/h1&gt;
+&lt;h1 id=&#34;organizations-and-conferences:eb8b46b1682aa052a73e7a204666a44a&#34;&gt;Organizations and Conferences&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Computational Models of Argument (COMMA)&lt;/li&gt;
@@ -1389,7 +1393,7 @@ Analysis and Impact Evaluation&lt;/li&gt;
 &lt;li&gt;RuleML&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;argumentation-research-groups&#34;&gt;Argumentation Research Groups&lt;/h1&gt;
+&lt;h1 id=&#34;argumentation-research-groups:eb8b46b1682aa052a73e7a204666a44a&#34;&gt;Argumentation Research Groups&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;The Agent Applications, Research, and Technology Group of the
@@ -1397,14 +1401,14 @@ University of Liverpool&lt;/li&gt;
 &lt;li&gt;The Argumentation Research Group of the University of Dundee&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
+&lt;h1 id=&#34;projects:eb8b46b1682aa052a73e7a204666a44a&#34;&gt;Projects&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Dialectical Argumentation Machines – A UK project conducted by the
 Argumentation Research Group of the University of Dundee.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;colleagues&#34;&gt;Colleagues&lt;/h1&gt;
+&lt;h1 id=&#34;colleagues:eb8b46b1682aa052a73e7a204666a44a&#34;&gt;Colleagues&lt;/h1&gt;
 
 &lt;p&gt;These are some of the people I&amp;rsquo;ve worked with in some way. Please
 excuse any omissions!&lt;/p&gt;
