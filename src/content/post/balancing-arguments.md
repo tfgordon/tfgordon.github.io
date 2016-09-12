@@ -12,9 +12,9 @@ Arguments](http://ebooks.iospress.nl/volume/computational-models-of-argument-pro
 (COMMA 2016) are now available online, free-of-charge as open access,
 from IOS Press.
 
-The proceedings includes a paper Douglas Walton and I wrote on how we
-have extended the formal model of structured argument used in Version
-4 of Carneades to provide better support for balancing arguments,
+The proceedings includes a paper Douglas Walton and I wrote about
+a new formal model of structured argument, used in Version
+4 of Carneades, with better support for balancing arguments,
 cumulative arguments ("accrual"), and multi-criteria decision
 analysis:
 
