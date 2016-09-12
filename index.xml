@@ -7,8 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2015 Thomas F. Gordon. Creative Commons Attribution-ShareAlike 4.0 International License </copyright>
-    <lastBuildDate>Sat, 16 Jul 2016 07:56:14 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Sep 2016 11:50:14 +0200</lastBuildDate>
     <atom:link href="https://tfgordon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>COMMA 2016 Proceedings; Formalizing Balancing Arguments</title>
+      <link>https://tfgordon.github.io/2016/09/12/comma-2016-proceedings-formalizing-balancing-arguments/</link>
+      <pubDate>Mon, 12 Sep 2016 11:50:14 +0200</pubDate>
+      
+      <guid>https://tfgordon.github.io/2016/09/12/comma-2016-proceedings-formalizing-balancing-arguments/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;http://ebooks.iospress.nl/volume/computational-models-of-argument-proceedings-of-comma-2016&#34;&gt;Proceedings of the 6th International Conference on Computational
+Models of
+Arguments&lt;/a&gt;
+(COMMA 2016) are now available online, free-of-charge as open access,
+from IOS Press.&lt;/p&gt;
+
+&lt;p&gt;The proceedings includes a paper Douglas Walton and I wrote on how we
+have extended the formal model of structured argument used in Version
+4 of Carneades to provide better support for balancing arguments,
+cumulative arguments (&amp;ldquo;accrual&amp;rdquo;), and multi-criteria decision
+analysis:&lt;/p&gt;
+
+&lt;p&gt;Gordon, Thomas F. and Walton, Douglas
+(2016). &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/yllKhe3qliiHHRK&#34;&gt;Formalizing Balancing Arguments&lt;/a&gt;. Proceedings
+  of the 2016 conference on Computational Models of Argument (COMMA
+  2016) (pp. 327-338): IOS Press.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, the &lt;a href=&#34;(http://ebooks.iospress.nl/volumearticle/45272&#34;&gt;version of the paper in the
+proceedings&lt;/a&gt; includes
+a minor error in Definition 7 (Applicable Argument). The &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/yllKhe3qliiHHRK&#34;&gt;version of
+the paper available on my web
+site&lt;/a&gt;
+corrects this error.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>COMMA 2016 Program</title>
