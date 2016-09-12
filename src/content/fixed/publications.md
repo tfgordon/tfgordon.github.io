@@ -13,7 +13,7 @@ In reverse chronological order:
   the Web: Theory, Analysis, and Applications. In preparation.
   College Publications.
 - Gordon, Thomas F. and Walton, Douglas
-  (2016). [Formalizing Balancing Arguments](https://owncloud.fokus.fraunhofer.de/index.php/s/yllKhe3qliiHHRK). Proceeding
+  (2016). [Formalizing Balancing Arguments](https://owncloud.fokus.fraunhofer.de/index.php/s/yllKhe3qliiHHRK). Proceedings
   of the 2016 conference on Computational Models of Argument (COMMA
   2016) (pp. 327-338): IOS Press. **Note**: This version corrects an error
   in Definition 7 (Applicable Argument). The conference proceedings
