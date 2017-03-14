@@ -42,7 +42,7 @@ In reverse chronological order:
 # 2014
 
 - Gordon, Thomas F. (2014). [Software Engineering for Research on Legal
-  Argumentation](https://drive.google.com/drive/folders/0Bx2Wbx6CAo3IbVY3MUxuaGg4TUE). Proceedings of the First International Workshop for
+  Argumentation](https://drive.google.com/open?id=0Bx2Wbx6CAo3ITGV2TzdYc19JaTg). Proceedings of the First International Workshop for
   Research on Legal Argumenation (MET-ARG)
 - Gordon, Thomas F.. "[A Demonstration of the MARKOS License Analyser."
   In Computational Models of Argument](https://drive.google.com/file/d/0Bx2Wbx6CAo3IcUdjYlpMNTA2cjQ/view?usp=sharing) – Proceedings of COMMA 2014,
