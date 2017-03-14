@@ -25,7 +25,7 @@ In reverse chronological order:
 - Walton, Douglas and Gordon, Thomas F. (2015). [Formalizing Informal Logic](http://ojs.uwindsor.ca/ojs/leddy/index.php/informal_logic/article/view/4335/3660). Informal Logic, 35(4), 508-538.
 - Bench-Capon, Trevor and Gordon, Thomas F. (2015). [Two Tools for
   Prototyping Legal CBR](https://drive.google.com/file/d/0Bx2Wbx6CAo3INlZ4RGRSTDJVS0E/view?usp=sharing). Legal Knowledge and Information Systems
-  (JURIX 2015). IOS Press. (In Press)
+  (JURIX 2015). IOS Press, pp. 177-178. 
 - Bench-Capon, Trevor and Gordon, Thomas F. (2015). [Tools for Rapid
   Prototyping of Legal Cased-Based Reasoning](https://drive.google.com/file/d/0Bx2Wbx6CAo3IdmtGSVh1RFlaQzg/view?usp=sharing) (ULCS-15-005). Liverpool,
   United Kingdom: University of Liverpool.
@@ -41,6 +41,9 @@ In reverse chronological order:
 
 # 2014
 
+- Gordon, Thomas F. (2014). [Software Engineering for Research on Legal
+  Argumentation](https://drive.google.com/drive/folders/0Bx2Wbx6CAo3IbVY3MUxuaGg4TUE). Proceedings of the First International Workshop for
+  Research on Legal Argumenation (MET-ARG)
 - Gordon, Thomas F.. "[A Demonstration of the MARKOS License Analyser."
   In Computational Models of Argument](https://drive.google.com/file/d/0Bx2Wbx6CAo3IcUdjYlpMNTA2cjQ/view?usp=sharing) – Proceedings of COMMA 2014,
   edited by Simon Parsons,- Nir Oren, Chris Reed and Federico Cerutti,
