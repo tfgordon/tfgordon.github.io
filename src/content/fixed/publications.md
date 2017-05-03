@@ -6,6 +6,12 @@
 
 In reverse chronological order:
 
+# 2017
+
+- Walton, Douglas and Gordon, Thomas
+  F. (2017). [Cumulative Arguments in Artificial Intelligence and Informal Logic](https://drive.google.com/open?id=0Bx2Wbx6CAo3ISExTWWhFLTlFX2s). Revista
+  Iberoamericana de Argumentacion, in press.
+
 # 2016
 
 - Gordon, Thomas F. (2016). Arguing about Open Source Licensing Issues
