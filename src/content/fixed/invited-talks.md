@@ -1,7 +1,7 @@
 {
   "title": "Invited Talks",
   "sidebar": false,
-  "weight": 3
+  "weight": 3,
   "draft": true
 }
 
