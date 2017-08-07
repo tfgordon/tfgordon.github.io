@@ -10,7 +10,7 @@ In reverse chronological order:
 
 - Walton, Douglas and Gordon, Thomas
   F. (2017). [Cumulative Arguments in Artificial Intelligence and Informal Logic](https://drive.google.com/open?id=0Bx2Wbx6CAo3ISExTWWhFLTlFX2s). Revista
-  Iberoamericana de Argumentacion, in press.
+  Iberoamericana de Argumentacion, (14), 1-28.
 
 # 2016
 
