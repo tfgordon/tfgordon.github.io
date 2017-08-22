@@ -6,13 +6,13 @@
 
 Tom Gordon conducts research on argumentation technology in the fields
 of "artificial intelligence and law" and "computational models of
-argument" at Fraunhofer FOKUS in Berlin, Germany, and holds an
-honorary professorship for argumentation technology at the Institute
-of Computer Science of the University of Potsdam. The goal of this
-research is to provide software tools for governance tasks in the
-policy life cycle: agenda setting, analysis, policy development and
-legislation, implementation (including administrative rulemaking and
-electronic service delivery), and monitoring.
+argument" and holds an honorary professorship for argumentation
+technology at the Institute of Computer Science of the University of
+Potsdam. The goal of this research is to provide software tools for
+governance tasks in the policy life cycle: agenda setting, analysis,
+policy development and legislation, implementation (including
+administrative rulemaking and electronic service delivery), and
+monitoring.
 
 Example types of applications include: 
 
