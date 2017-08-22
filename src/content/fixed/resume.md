@@ -26,7 +26,7 @@
   Systems; German National Research Center for Computer Science (GMD);
   Sankt Augustin, Germany; 1999 to 2000
 - Senior Research Scientist; Fraunhofer Institute for Open
-  Communication Systems (FOKUS); Berlin, Germany; 2001 to present.
+  Communication Systems (FOKUS); Berlin, Germany; 2001 to 2017.
 
 # Awards
 
