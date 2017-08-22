@@ -10,6 +10,7 @@
   argumentation tasks.
 - DEMO-net – A European "network of excellence" on the subject of
   eDemocracy and eParticipation.
+- [Microsoft DUCK](https://github.com/Microsoft/DUCK) – Web-based tool to author and check ISO 19944-style data use statements
 - [EAGLE](http://www.eagle-learning.eu/) – Enhanced Government Learning
 - [Estrella](http://lawin.org/estrella-project/) – A European project to develop an open, standards-based platform for Legal Knowledge Systems.
 - [IMPACT](http://www.policy-impact.eu/) – Integrated Method for Policy Making Using Argument Modelling and Computer Assisted Text Analysis
