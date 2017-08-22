@@ -8,16 +8,26 @@ In reverse chronological order:
 
 # 2017
 
-- Walton, Douglas and Gordon, Thomas
-  F. (2017). [Cumulative Arguments in Artificial Intelligence and Informal Logic](https://drive.google.com/open?id=0Bx2Wbx6CAo3ISExTWWhFLTlFX2s). Revista
+- Gordon, Thomas F. (2016). Arguing about Open Source Licensing Issues
+  on the Web. In (Paglieri, Fabio and Reed, Chris, Eds.), Arguing on
+  the Web: Theory, Analysis, and Applications. In press.
+  College Publications.
+
+- Gordon, Thomas F. and Friederich, Horst and Walton, Douglas
+  (2017). Representing Argumentation Schemes with Constraint Handling
+  Rules (CHR). Argument and Computation, under review.
+
+- Gordon, Thomas F. (2017). Defining argument weighing
+  functions. IfCoLog Journal of Logics and their Applications, under
+  review.
+
+- Walton, Douglas and Gordon, Thomas F. (2017). [Cumulative Arguments
+  in Artificial Intelligence and Informal
+  Logic](https://drive.google.com/open?id=0Bx2Wbx6CAo3ISExTWWhFLTlFX2s). Revista
   Iberoamericana de Argumentacion, (14), 1-28.
 
 # 2016
 
-- Gordon, Thomas F. (2016). Arguing about Open Source Licensing Issues
-  on the Web. In (Paglieri, Fabio and Reed, Chris, Eds.), Arguing on
-  the Web: Theory, Analysis, and Applications. In preparation.
-  College Publications.
 - Gordon, Thomas F. and Walton, Douglas
   (2016). [Formalizing Balancing Arguments](https://drive.google.com/file/d/0Bx2Wbx6CAo3IYUY3WDBfOXNraVk/view?usp=sharing). Proceedings
   of the 2016 conference on Computational Models of Argument (COMMA

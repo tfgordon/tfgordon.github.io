@@ -1,9 +1,9 @@
 <div class="pure-menu social">
   <ul class="pure-menu-list">
 
-    {{ if .RSSlink }}
+    {{ if .RSSLink }}
     <li class="pure-menu-item">
-      <a class="pure-menu-link" href="{{ .RSSlink }}"><i class="fa fa-rss fa-fw"></i>RSS</a>
+      <a class="pure-menu-link" href="{{ .RSSLink }}"><i class="fa fa-rss fa-fw"></i>RSS</a>
     </li>
     {{ end }}
 
@@ -39,6 +39,12 @@
     </li>
     {{ end }}
 
+    {{ with .Site.Social.tumblr }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://{{ . }}.tumblr.com/" target="_blank"><i class="fa fa-tumblr-square fa-fw"></i>Tumblr</a>
+    </li>
+    {{ end }}
+
     <!-- SNS photo/video sharing -->
 
     {{ with .Site.Social.instagram }}
@@ -50,6 +56,12 @@
     {{ with .Site.Social.flickr }}
     <li class="pure-menu-item">
       <a class="pure-menu-link" href="https://flickr.com/photos/{{ . }}" target="_blank"><i class="fa fa-flickr fa-fw"></i>Flickr</a>
+    </li>
+    {{ end }}
+
+    {{ with .Site.Social.photo500px }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://500px.com/{{ . }}" target="_blank"><i class="fa fa-500px fa-fw"></i>500px</a>
     </li>
     {{ end }}
 
@@ -119,6 +131,12 @@
     </li>
     {{ end }}
 
+    {{ with .Site.Social.gitlab }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://gitlab.com/{{ . }}" target="_blank"><i class="fa fa-gitlab fa-fw"></i>GitLab</a>
+    </li>
+    {{ end }}
+
     {{ with .Site.Social.bitbucket }}
     <li class="pure-menu-item">
       <a class="pure-menu-link" href="https://bitbucket.org/{{ . }}" target="_blank"><i class="fa fa-bitbucket-square fa-fw"></i>Bitbucket</a>
@@ -134,6 +152,34 @@
     {{ with .Site.Social.serverfault }}
     <li class="pure-menu-item">
       <a class="pure-menu-link" href="https://serverfault.com/users/{{ . }}" target="_blank"><i class="fa fa-server fa-fw"></i>Server Fault</a>
+    </li>
+    {{ end }}
+
+    <!-- Gaming -->
+
+    {{ with .Site.Social.steam }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://steamcommunity.com/id/{{ . }}" target="_blank"><i class="fa fa-steam-square fa-fw"></i>Steam</a>
+    </li>
+    {{ end }}
+
+    {{ with .Site.Social.mobygames }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://www.mobygames.com/developer/sheet/view/developerId,{{ . }}" target="_blank"><i class="fa fa-gamepad fa-fw"></i>MobyGames</a>
+    </li>
+    {{ end }}
+
+    <!-- Music -->
+
+    {{ with .Site.Social.lastfm }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="http://last.fm/user/{{ . }}" target="_blank"><i class="fa fa-lastfm-square fa-fw"></i>Last.fm</a>
+    </li>
+    {{ end }}
+
+    {{ with .Site.Social.discogs }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://www.discogs.com/user/{{ . }}" target="_blank"><i class="fa fa-music fa-fw"></i>Discogs</a>
     </li>
     {{ end }}
 
