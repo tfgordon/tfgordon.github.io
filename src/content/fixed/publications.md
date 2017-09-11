@@ -8,7 +8,14 @@ In reverse chronological order:
 
 # 2017
 
-- Gordon, Thomas F. (2016). Arguing about Open Source Licensing Issues
+- Walton, Douglas and Gordon, Thomas F. (2017). Argument Invention
+  with the Carneades Argumentation System. Script-Ed, in press.
+
+- Walton, Douglas and Gordon, Thomas F. (2017). How Computational
+  Tools Can Help Rhetoric and Informal Logic with Argument
+  Invention. Argumentation, in press.
+
+- Gordon, Thomas F. (2017). Arguing about Open Source Licensing Issues
   on the Web. In (Paglieri, Fabio and Reed, Chris, Eds.), Arguing on
   the Web: Theory, Analysis, and Applications. In press.
   College Publications.
@@ -24,7 +31,7 @@ In reverse chronological order:
 - Walton, Douglas and Gordon, Thomas F. (2017). [Cumulative Arguments
   in Artificial Intelligence and Informal
   Logic](https://drive.google.com/open?id=0Bx2Wbx6CAo3ISExTWWhFLTlFX2s). Revista
-  Iberoamericana de Argumentacion, (14), 1-28.
+  de Argumentacion, (14), 1-28.
 
 # 2016
 
