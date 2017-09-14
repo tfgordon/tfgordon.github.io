@@ -4,10 +4,10 @@
   "weight": 4
 }
 
-Prof. Dr. Thomas F. Gordon   
-Argumentation Technology    
-Institute of Computer Science    
-University of Potsdam     
-email: tgordon@uni-potsdam.de    
+Dr. Thomas F. Gordon   
+email: 9cVUf2 (at) posteo.de 
 web: <http://tfgordon.github.io>
+
+Note: The email address above is subject to change. Please check
+back here for a current email address if your message bounces.
 
