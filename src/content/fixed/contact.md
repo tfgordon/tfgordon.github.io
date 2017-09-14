@@ -5,7 +5,7 @@
 }
 
 Dr. Thomas F. Gordon   
-email: 9cVUf2 (at) posteo.de 
+email: 9cVUf2 (at) posteo.de   
 web: <http://tfgordon.github.io>
 
 Note: The email address above is subject to change. Please check
