@@ -8,9 +8,7 @@
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2015 Thomas F. Gordon. Creative Commons Attribution-ShareAlike 4.0 International License </copyright>
     <lastBuildDate>Mon, 12 Sep 2016 11:50:14 +0200</lastBuildDate>
-    
-	<atom:link href="https://tfgordon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://tfgordon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>COMMA 2016 Proceedings; Formalizing Balancing Arguments</title>
@@ -35,14 +33,13 @@ analysis:&lt;/p&gt;
   of the 2016 conference on Computational Models of Argument (COMMA
   2016) (pp. 327-338): IOS Press.&lt;/p&gt;
 
-&lt;p&gt;Unfortunately, the [version of the paper in the
-proceedings]((&lt;a href=&#34;http://ebooks.iospress.nl/volumearticle/45272&#34;&gt;http://ebooks.iospress.nl/volumearticle/45272&lt;/a&gt;) includes
+&lt;p&gt;Unfortunately, the &lt;a href=&#34;(http://ebooks.iospress.nl/volumearticle/45272&#34;&gt;version of the paper in the
+proceedings&lt;/a&gt; includes
 a minor error in Definition 7 (Applicable Argument). The &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/yllKhe3qliiHHRK&#34;&gt;version of
 the paper available on my web
 site&lt;/a&gt;
 corrects this error.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+</description>
     </item>
     
     <item>
@@ -53,8 +50,7 @@ corrects this error.&lt;/p&gt;
       <guid>https://tfgordon.github.io/2016/07/16/comma-2016-program/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;http://www.ling.uni-potsdam.de/comma2016/index.php?page=program.php&#34;&gt;program&lt;/a&gt;
 of the 2016 Conference on Computational Models of Argument (&lt;a href=&#34;http://www.ling.uni-potsdam.de/comma2016/&#34;&gt;COMMA&lt;/a&gt; is now online.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+</description>
     </item>
     
     <item>
@@ -68,8 +64,10 @@ addess at the 2007 International Conference on Artificial Intelligence
 and Law at Stanford University, with the title &amp;ldquo;20 Years of ICAIL –
 Reflections on the Field of AI and Law&amp;rdquo;. They are now online, in &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/v14TktIJgxTlU26&#34;&gt;PDF&lt;/a&gt;
 and editable &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/8kwKLYC4fwWuRsk&#34;&gt;OpenDocument&lt;/a&gt; formats. (License: Creative Commons
-Attribution-ShareAlike 4.0 International)
-&lt;/p&gt;</description>
+Attribution-ShareAlike 4.0 International)&lt;/p&gt;
+
+&lt;p&gt;More stuff&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -84,8 +82,8 @@ is approaching.  The annual International Web Rule Symposium (RuleML)
 is an &amp;ldquo;international conference on research, applications, languages
 and standards for rule technologies&amp;rdquo;.  RuleML 2015 takes place from
 August 2-5, 2015, at the Free University of Berlin, in Berlin,
-Germany.
-&lt;/p&gt;</description>
+Germany.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -94,7 +92,10 @@ Germany.
       <pubDate>Sat, 14 Feb 2015 17:56:13 +0200</pubDate>
       
       <guid>https://tfgordon.github.io/2015/02/14/new-website-and-blog/</guid>
-      <description>This will be my new personal website, hosted on Github. This is work in progress. When it is ready, I will redirect my tfgordon.de domain name to point here.</description>
+      <description>&lt;p&gt;This will be my new personal website, hosted on Github. This is work
+in progress.  When it is ready, I will redirect my
+&lt;a href=&#34;http://www.tfgordon.de&#34;&gt;tfgordon.de&lt;/a&gt; domain name to point here.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

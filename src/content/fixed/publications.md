@@ -9,7 +9,7 @@ In reverse chronological order:
 # 2017
 
 - Walton, Douglas and Gordon, Thomas F. (2017). Argument Invention
-  with the Carneades Argumentation System. Script-Ed, in press.
+  with the Carneades Argumentation System. Script-Ed, 14(2), in press.
 
 - Walton, Douglas and Gordon, Thomas F. (2017). How Computational
   Tools Can Help Rhetoric and Informal Logic with Argument

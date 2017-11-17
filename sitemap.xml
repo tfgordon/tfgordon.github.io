@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://tfgordon.github.io/</loc>
+    <lastmod>2016-09-12T11:50:14+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tfgordon.github.io/2016/09/12/comma-2016-proceedings-formalizing-balancing-arguments/</loc>
+    <lastmod>2016-09-12T11:50:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tfgordon.github.io/2016/07/16/comma-2016-program/</loc>
+    <lastmod>2016-07-16T07:56:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tfgordon.github.io/2016/07/16/slides-of-my-2007-icail-keynote-address/</loc>
+    <lastmod>2016-07-16T07:08:41+02:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tfgordon.github.io/2015/02/23/ruleml-call-for-papers/</loc>
+    <lastmod>2015-02-23T13:50:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tfgordon.github.io/2015/02/14/new-website-and-blog/</loc>
+    <lastmod>2015-02-14T17:56:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tfgordon.github.io/license/</loc>
+    <lastmod>2015-01-20T10:56:00+01:00</lastmod>
+  </url>
   
   <url>
     <loc>https://tfgordon.github.io/about/</loc>
@@ -36,64 +71,6 @@
   
   <url>
     <loc>https://tfgordon.github.io/related/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tfgordon.github.io/2016/09/12/comma-2016-proceedings-formalizing-balancing-arguments/</loc>
-    <lastmod>2016-09-12T11:50:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tfgordon.github.io/2016/07/16/comma-2016-program/</loc>
-    <lastmod>2016-07-16T07:56:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tfgordon.github.io/2016/07/16/slides-of-my-2007-icail-keynote-address/</loc>
-    <lastmod>2016-07-16T07:08:41+02:01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tfgordon.github.io/2015/02/23/ruleml-call-for-papers/</loc>
-    <lastmod>2015-02-23T13:50:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tfgordon.github.io/2015/02/14/new-website-and-blog/</loc>
-    <lastmod>2015-02-14T17:56:13+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tfgordon.github.io/license/</loc>
-    <lastmod>2015-01-20T10:56:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tfgordon.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tfgordon.github.io/fixed/</loc>
-    <lastmod>2015-01-20T10:56:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tfgordon.github.io/post/</loc>
-    <lastmod>2016-09-12T11:50:14+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tfgordon.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tfgordon.github.io/</loc>
-    <lastmod>2016-09-12T11:50:14+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
