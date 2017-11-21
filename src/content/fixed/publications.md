@@ -6,12 +6,14 @@
 
 In reverse chronological order:
 
-# 2017
+# 2018
 
-- Gordon, Thomas F. (2017). Towards Requirements Analysis for Formal
+- Gordon, Thomas F. (2018). Towards Requirements Analysis for Formal
   Argumentation. In (Baroni, Pietro and Gabbay, Dov and Giacomin,
   Massimiliano and van der Torre, Leendart, Eds.)  Handbook of Formal
   Argumentation. In press. College Publications.
+
+# 2017
 
 - Walton, Douglas and Gordon, Thomas F. (2017). Argument Invention
   with the Carneades Argumentation System. Script-Ed, 14(2), in press.
