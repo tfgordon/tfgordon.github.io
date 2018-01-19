@@ -15,8 +15,8 @@ In reverse chronological order:
 
 # 2017
 
-- Walton, Douglas and Gordon, Thomas F. (2017). Argument Invention
-  with the Carneades Argumentation System. Script-Ed, 14(2), in press.
+- Walton, Douglas and Gordon, Thomas F. (2017). [Argument Invention
+  with the Carneades Argumentation System](https://script-ed.org/wp-content/uploads/2017/12/walton_gordon.pdf). Script-Ed, 14(2), 169-207.
 
 - Walton, Douglas and Gordon, Thomas F. (2017). How Computational
   Tools Can Help Rhetoric and Informal Logic with Argument
@@ -30,6 +30,12 @@ In reverse chronological order:
 - Gordon, Thomas F. and Friederich, Horst and Walton, Douglas
   (2017). Representing Argumentation Schemes with Constraint Handling
   Rules (CHR). Argument and Computation, under review.
+
+- Gordon, Thomas F. and Friederich, Horst (2017). Representing
+ Argumentation Schemes with Constraint Handling Rules (CHR). In (Bex,
+ Floris and Grasso, Floriana and Green, Nancy, Eds.).
+ [Proceedings of the 17th Workshop on Computational Models of Natural
+ Argument](http://ceur-ws.org/Vol-2048/paper06.pdf) (pp. 30-37). Aachen, Germany: CEUR.
 
 - Gordon, Thomas F. (2017). Defining argument weighing
   functions. IfCoLog Journal of Logics and their Applications, under
