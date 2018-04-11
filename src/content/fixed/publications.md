@@ -7,25 +7,26 @@
 In reverse chronological order:
 
 # 2018
+- Walton, Douglas and Gordon, Thomas F. (2018). How Computational
+  Tools Can Help Rhetoric and Informal Logic with Argument
+  Invention. Argumentation,
+  [https://doi.org/10.1007/s10503-017-9439-5](https://doi.org/10.1007/s10503-017-9439-5)
 
 - Gordon, Thomas F. (2018). Towards Requirements Analysis for Formal
   Argumentation. In (Baroni, Pietro and Gabbay, Dov and Giacomin,
   Massimiliano and van der Torre, Leendart, Eds.)  Handbook of Formal
-  Argumentation. In press. College Publications.
+  Argumentation. College Publications.
 
 # 2017
 
-- Walton, Douglas and Gordon, Thomas F. (2017). [Argument Invention
-  with the Carneades Argumentation System](https://script-ed.org/wp-content/uploads/2017/12/walton_gordon.pdf). Script-Ed, 14(2), 169-207.
-
-- Walton, Douglas and Gordon, Thomas F. (2017). How Computational
-  Tools Can Help Rhetoric and Informal Logic with Argument
-  Invention. Argumentation, in press.
+- Walton, Douglas and Gordon, Thomas
+  F. (2017). [Argument Invention with the Carneades Argumentation System](https://script-ed.org/wp-content/uploads/2017/12/walton_gordon.pdf). Script-Ed,
+  14(2), 169-207.
 
 - Gordon, Thomas F. (2017). Arguing about Open Source Licensing Issues
   on the Web. In (Paglieri, Fabio and Reed, Chris, Eds.), Arguing on
-  the Web: Theory, Analysis, and Applications. In press.
-  College Publications.
+  the Web: Theory, Analysis, and Applications. In press.  College
+  Publications.
 
 - Gordon, Thomas F. and Friederich, Horst and Walton, Douglas
   (2017). Representing Argumentation Schemes with Constraint Handling
