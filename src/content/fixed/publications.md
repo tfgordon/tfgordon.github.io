@@ -8,6 +8,10 @@ In reverse chronological order:
 
 # 2018
 
+- Gordon, Thomas F. and Friederich, Horst and Walton, Douglas
+  (2018). Representing Argumentation Schemes with Constraint Handling
+  Rules (CHR). Argument and Computation, in press.
+
 - Gordon, Thomas F. (2018). Defining argument weighing
   functions. IfCoLog Journal of Logics and their Applications, 5(3),
   747-?.
@@ -32,10 +36,6 @@ In reverse chronological order:
   on the Web. In (Paglieri, Fabio and Reed, Chris, Eds.), Arguing on
   the Web: Theory, Analysis, and Applications. In press.  College
   Publications.
-
-- Gordon, Thomas F. and Friederich, Horst and Walton, Douglas
-  (2017). Representing Argumentation Schemes with Constraint Handling
-  Rules (CHR). Argument and Computation, under review.
 
 - Gordon, Thomas F. and Friederich, Horst (2017). [Representing
  Argumentation Schemes with Constraint Handling Rules
