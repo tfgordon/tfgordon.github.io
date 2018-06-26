@@ -7,6 +7,11 @@
 In reverse chronological order:
 
 # 2018
+
+- Gordon, Thomas F. (2018). Defining argument weighing
+  functions. IfCoLog Journal of Logics and their Applications, 5(3),
+  747-?.
+
 - Walton, Douglas and Gordon, Thomas F. (2018). How Computational
   Tools Can Help Rhetoric and Informal Logic with Argument
   Invention. Argumentation,
@@ -39,9 +44,6 @@ In reverse chronological order:
  Workshop on Computational Models of Natural Argument
  (pp. 30-37). Aachen, Germany: CEUR.
 
-- Gordon, Thomas F. (2017). Defining argument weighing
-  functions. IfCoLog Journal of Logics and their Applications, under
-  review.
 
 - Walton, Douglas and Gordon, Thomas F. (2017). [Cumulative Arguments
   in Artificial Intelligence and Informal
