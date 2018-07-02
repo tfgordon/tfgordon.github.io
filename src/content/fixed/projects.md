@@ -18,4 +18,4 @@
 - [MARKOS](https://cordis.europa.eu/project/rcn/104913_en.html) – The Market for Open Source Software.
 - [Policy Compass](https://cordis.europa.eu/project/rcn/109704_en.html) – Open Data-Driven
   Analysis and Impact Evaluation
-- [SPOCS](https://cordis.europa.eu/project/rcn/191708_en.html) – Building the next generation Points of Single Contact
+- [SPOCS](https://cordis.europa.eu/project/rcn/191708_en.html) – Simple Procedures Online for Crossborder Services
