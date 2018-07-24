@@ -14,9 +14,9 @@ In reverse chronological order:
   (CHR)](https://content.iospress.com/download/argument-and-computation/aac039?id=argument-and-computation%2Faac039). Argument
   and Computation, 9(2), 91-119.
 
-- Gordon, Thomas F. (2018). Defining argument weighing
-  functions. IfCoLog Journal of Logics and their Applications, 5(3),
-  747-?.
+- Gordon, Thomas F. (2018). [Defining argument weighing
+  functions](http://www.collegepublications.co.uk/downloads/ifcolog00023.pdf). IfCoLog
+  Journal of Logics and their Applications, 5(3), 747-773.
 
 - Walton, Douglas and Gordon, Thomas F. (2018). How Computational
   Tools Can Help Rhetoric and Informal Logic with Argument
