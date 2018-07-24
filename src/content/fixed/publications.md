@@ -9,8 +9,14 @@ In reverse chronological order:
 # 2018
 
 - Gordon, Thomas F. and Friederich, Horst and Walton, Douglas
+  (2018). [Representing Argumentation Schemes with Constraint Handling
+  Rules
+  (CHR)](https://content.iospress.com/download/argument-and-computation/aac039?id=argument-and-computation%2Faac039). Argument
+  and Computation, vol. 9, no. 2, pp. 91-119.
+
+- Gordon, Thomas F. and Friederich, Horst and Walton, Douglas
   (2018). Representing Argumentation Schemes with Constraint Handling
-  Rules (CHR). Argument and Computation, in press.
+  Rules (CHR). Argument and Computation, 9(2), 91-119.
 
 - Gordon, Thomas F. (2018). Defining argument weighing
   functions. IfCoLog Journal of Logics and their Applications, 5(3),
