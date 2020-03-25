@@ -4,7 +4,7 @@
   "weight": 4
 }
 
-Dr. Thomas F. Gordon   
+Prof. Dr. Thomas F. Gordon   
 email: 9cVUf2 (at) posteo.de   
 web: <http://www.tfgordon.de>
 
