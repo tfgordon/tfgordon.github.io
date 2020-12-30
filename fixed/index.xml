@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fixeds on Thomas F. Gordon</title>
@@ -47,9 +47,8 @@
       
       <guid>https://tfgordon.github.io/publications/</guid>
       <description>In reverse chronological order:
-2018  Gordon, Thomas F. and Friederich, Horst and Walton, Douglas (2018). Representing Argumentation Schemes with Constraint Handling Rules (CHR). Argument and Computation, 9(2), 91-119.
- Gordon, Thomas F. (2018). Defining argument weighing functions. IfCoLog Journal of Logics and their Applications, 5(3), 747-773.
- Walton, Douglas and Gordon, Thomas F. (2018). How Computational Tools Can Help Rhetoric and Informal Logic with Argument Invention. Argumentation, https://doi.org/10.1007/s10503-017-9439-5</description>
+2020  Atkinson, K., Bench-Capon, T., Bex, F., Gordon, T.F. et al. (2020). In memoriam Douglas N. Walton: the influence of Doug Walton on AI and law. Artificial Intelligence and Law, 28, 281–326.  2018   Gordon, Thomas F. and Friederich, Horst and Walton, Douglas (2018). Representing Argumentation Schemes with Constraint Handling Rules (CHR). Argument and Computation, 9(2), 91-119.
+  Gordon, Thomas F. (2018). Defining argument weighing functions.</description>
     </item>
     
     <item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas F. Gordon</title>
@@ -47,9 +47,8 @@
       
       <guid>https://tfgordon.github.io/publications/</guid>
       <description>In reverse chronological order:
-2018  Gordon, Thomas F. and Friederich, Horst and Walton, Douglas (2018). Representing Argumentation Schemes with Constraint Handling Rules (CHR). Argument and Computation, 9(2), 91-119.
- Gordon, Thomas F. (2018). Defining argument weighing functions. IfCoLog Journal of Logics and their Applications, 5(3), 747-773.
- Walton, Douglas and Gordon, Thomas F. (2018). How Computational Tools Can Help Rhetoric and Informal Logic with Argument Invention. Argumentation, https://doi.org/10.1007/s10503-017-9439-5</description>
+2020  Atkinson, K., Bench-Capon, T., Bex, F., Gordon, T.F. et al. (2020). In memoriam Douglas N. Walton: the influence of Doug Walton on AI and law. Artificial Intelligence and Law, 28, 281–326.  2018   Gordon, Thomas F. and Friederich, Horst and Walton, Douglas (2018). Representing Argumentation Schemes with Constraint Handling Rules (CHR). Argument and Computation, 9(2), 91-119.
+  Gordon, Thomas F. (2018). Defining argument weighing functions.</description>
     </item>
     
     <item>
@@ -111,26 +110,21 @@ Models of
 Arguments&lt;/a&gt;
 (COMMA 2016) are now available online, free-of-charge as open access,
 from IOS Press.&lt;/p&gt;
-
 &lt;p&gt;The proceedings includes a paper Douglas Walton and I wrote about
 a new formal model of structured argument, used in Version
 4 of Carneades, with better support for balancing arguments,
 cumulative arguments (&amp;ldquo;accrual&amp;rdquo;), and multi-criteria decision
 analysis:&lt;/p&gt;
-
 &lt;p&gt;Gordon, Thomas F. and Walton, Douglas
 (2016). &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/yllKhe3qliiHHRK&#34;&gt;Formalizing Balancing Arguments&lt;/a&gt;. Proceedings
-  of the 2016 conference on Computational Models of Argument (COMMA
-  2016) (pp. 327-338): IOS Press.&lt;/p&gt;
-
+of the 2016 conference on Computational Models of Argument (COMMA
+2016) (pp. 327-338): IOS Press.&lt;/p&gt;
 &lt;p&gt;Unfortunately, the [version of the paper in the
 proceedings]((&lt;a href=&#34;http://ebooks.iospress.nl/volumearticle/45272&#34;&gt;http://ebooks.iospress.nl/volumearticle/45272&lt;/a&gt;) includes
 a minor error in Definition 7 (Applicable Argument). The &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/yllKhe3qliiHHRK&#34;&gt;version of
 the paper available on my web
 site&lt;/a&gt;
-corrects this error.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+corrects this error.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -140,9 +134,7 @@ corrects this error.&lt;/p&gt;
       
       <guid>https://tfgordon.github.io/2016/07/16/comma-2016-program/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;http://www.ling.uni-potsdam.de/comma2016/index.php?page=program.php&#34;&gt;program&lt;/a&gt;
-of the 2016 Conference on Computational Models of Argument (&lt;a href=&#34;http://www.ling.uni-potsdam.de/comma2016/&#34;&gt;COMMA&lt;/a&gt; is now online.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+of the 2016 Conference on Computational Models of Argument (&lt;a href=&#34;http://www.ling.uni-potsdam.de/comma2016/&#34;&gt;COMMA&lt;/a&gt; is now online.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -156,8 +148,7 @@ addess at the 2007 International Conference on Artificial Intelligence
 and Law at Stanford University, with the title &amp;ldquo;20 Years of ICAIL –
 Reflections on the Field of AI and Law&amp;rdquo;. They are now online, in &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/v14TktIJgxTlU26&#34;&gt;PDF&lt;/a&gt;
 and editable &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/8kwKLYC4fwWuRsk&#34;&gt;OpenDocument&lt;/a&gt; formats. (License: Creative Commons
-Attribution-ShareAlike 4.0 International)
-&lt;/p&gt;</description>
+Attribution-ShareAlike 4.0 International)&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -172,8 +163,7 @@ is approaching.  The annual International Web Rule Symposium (RuleML)
 is an &amp;ldquo;international conference on research, applications, languages
 and standards for rule technologies&amp;rdquo;.  RuleML 2015 takes place from
 August 2-5, 2015, at the Free University of Berlin, in Berlin,
-Germany.
-&lt;/p&gt;</description>
+Germany.&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -6,6 +6,11 @@
 
 In reverse chronological order:
 
+# 2020
+
+- Atkinson, K., Bench-Capon, T., Bex, F., Gordon, T.F. et al. (2020). [In memoriam Douglas N. Walton: 
+the influence of Doug Walton on AI and law. Artificial Intelligence and Law](https://rdcu.be/ccRWs), 28, 281–326.
+
 # 2018
 
 - Gordon, Thomas F. and Friederich, Horst and Walton, Douglas
