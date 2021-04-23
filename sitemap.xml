@@ -3,7 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tfgordon.github.io/about/</loc>
+    <loc>https://tfgordon.github.io/fixed/</loc>
+    <lastmod>2015-01-20T10:56:00+01:00</lastmod>
   </url>
   
   <url>
@@ -71,11 +72,6 @@
   <url>
     <loc>https://tfgordon.github.io/2015/02/14/new-website-and-blog/</loc>
     <lastmod>2015-02-14T17:56:13+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tfgordon.github.io/fixed/</loc>
-    <lastmod>2015-01-20T10:56:00+01:00</lastmod>
   </url>
   
   <url>
