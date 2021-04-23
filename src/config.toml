@@ -1,7 +1,7 @@
 baseurl = "https://tfgordon.github.io/"
 title = "Thomas F. Gordon"
 author = "Thomas F. Gordon"
-copyright = "copyright &copy; 2015 Thomas F. Gordon. Creative Commons Attribution-ShareAlike 4.0 International License "
+copyright = "copyright &copy; 2015-2021 Thomas F. Gordon. Creative Commons Attribution-ShareAlike 4.0 International License "
 languageCode = "en-us"
 # contentdir = "content"
 theme = "blackburn"
@@ -28,10 +28,10 @@ paginate = 10
   # Shown in the side menu.
   [[menu.main]]
     name = "Home"
-    pre = "<i class='fa fa-home fa-fw'></i>"
+    pre = "<i class='fa fa-file fa-fw'></i>"
     weight = 0
     identifier = "home"
-    url = "/"
+    url = "/about/"
   [[menu.main]]
     name = "Posts"
     pre = "<i class='fa fa-list fa-fw'></i>"

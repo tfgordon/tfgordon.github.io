@@ -4,17 +4,17 @@
   "weight": 1
 }
 
-Tom Gordon conducts research on argumentation technology in the fields
+Tom Gordon is a computer scientist and lawyer who has conducted research on argumentation technology in the fields
 of "artificial intelligence and law" and "computational models of
 argument" and holds an honorary professorship for argumentation
 technology at the Institute of Computer Science of the University of
-Potsdam. The goal of this research is to provide software tools for
+Potsdam. The goal of his research has been to provide software tools for
 governance tasks in the policy life cycle: agenda setting, analysis,
 policy development and legislation, implementation (including
 administrative rulemaking and electronic service delivery), and
-monitoring.
+monitoring. Tom Gordon retired in 2017.
 
-Example types of applications include: 
+Example types of applications included: 
 
 - systems for constructing ("inventing"), structuring, evaluating and
   visualizing arguments
