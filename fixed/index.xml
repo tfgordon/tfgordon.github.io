@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2015-2021 Thomas F. Gordon. Creative Commons Attribution-ShareAlike 4.0 International License </copyright>
-    <lastBuildDate>Tue, 20 Jan 2015 10:56:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://tfgordon.github.io/fixed/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 20 Jan 2015 10:56:00 +0100</lastBuildDate><atom:link href="https://tfgordon.github.io/fixed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Invited Talks</title>
       <link>https://tfgordon.github.io/invited-talks/</link>
