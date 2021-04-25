@@ -5,8 +5,9 @@
   <h2>{{ .Description }}</h2>
 </div>
 <div class="content">
-{{ .Site.GetPage "_index.md" }}
-<!-- {{ .Content }} -->
+{{ with .Site.GetPage "_index.md" }}
+{{ .Content }} 
+{{ end }}
 </div>
 
 {{ partial "footer.html" . }}
