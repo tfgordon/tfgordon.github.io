@@ -31,7 +31,7 @@ paginate = 10
     pre = "<i class='fa fa-file fa-fw'></i>"
     weight = 0
     identifier = "home"
-    url = "/about/"
+    url = "/"
   [[menu.main]]
     name = "Posts"
     pre = "<i class='fa fa-list fa-fw'></i>"
