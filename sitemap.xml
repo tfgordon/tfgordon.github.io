@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tfgordon.github.io/</loc>
-    <lastmod>2016-09-12T11:50:14+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tfgordon.github.io/invited-talks/</loc>
   </url>
   
@@ -46,6 +41,11 @@
   
   <url>
     <loc>https://tfgordon.github.io/post/</loc>
+    <lastmod>2016-09-12T11:50:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tfgordon.github.io/</loc>
     <lastmod>2016-09-12T11:50:14+02:00</lastmod>
   </url>
   
