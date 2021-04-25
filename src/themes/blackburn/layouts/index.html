@@ -5,7 +5,7 @@
   <h2>{{ .Description }}</h2>
 </div>
 <div class="content">
-  {{ .Content }}
+  {{ .Site.GetPage }}
 </div>
 
 {{ partial "footer.html" . }}
