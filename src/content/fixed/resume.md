@@ -27,6 +27,7 @@
   Sankt Augustin, Germany; 1999 to 2000
 - Senior Research Scientist; Fraunhofer Institute for Open
   Communication Systems (FOKUS); Berlin, Germany; 2001 to 2017.
+- Retired since September, 2017.
 
 # Awards
 
