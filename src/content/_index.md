@@ -1,10 +1,10 @@
 +++
-title = ""
+title = "Thomas F. Gordon"
+description = "Argumentation Technology"
 date = "2021-04-25T16:03:52+02:00"
 draft = false
 tags = []
 topics = []
-description = ""
 +++
 
 Tom Gordon is a computer scientist and lawyer who has conducted research on argumentation technology in the fields
