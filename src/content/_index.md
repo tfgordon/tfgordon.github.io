@@ -7,6 +7,7 @@ tags = []
 topics = []
 +++
 
+
 Tom Gordon is a computer scientist and lawyer who has conducted research on argumentation technology in the fields
 of "artificial intelligence and law" and "computational models of
 argument" and holds an honorary professorship for argumentation
