@@ -157,7 +157,7 @@ the influence of Doug Walton on AI and law. Artificial Intelligence and Law](htt
   Argumentation. An Examination of- Douglas Walton's Theories of
   Reasoning. College Publications, 2010, 145-156.
 - Brewka, G. and Gordon, T.F. [Carneades and Abstract Dialectical
-  Frameworks: A Reconstruction](https://drive.google.com/file/d/0Bx2Wbx6CAo3IbldIWks5MkRET28/view?usp=sharing). Computational Models of Argument –
+  Frameworks: A Reconstruction](https://drive.google.com/file/d/0Bx2Wbx6CAo3IbldIWks5MkRET28/view?usp=sharing&resourcekey=0-e9DMJ_JJrO7Mbr-KPX_qBg). Computational Models of Argument –
   Proceedings of COMMA 2010, IOS Press (2010), 3–12.
 - Ballnat, S. and Gordon, T.F. [Goal Selection in Argumentation
   Processes — A Formal Model of Abduction in Argument Evaluation
