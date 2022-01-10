@@ -150,7 +150,7 @@ the influence of Doug Walton on AI and law. Artificial Intelligence and Law](htt
 # 2010
 
 - Gordon, T.F. [Report on a Prototype Decision Support System for OSS
-  License Compatibility Issues](https://drive.google.com/file/d/0Bx2Wbx6CAo3IaHNiWHVKSERSS2M/view?usp=sharing). Qualipso (IST- FP6-IP-034763),
+  License Compatibility Issues](https://drive.google.com/file/d/0Bx2Wbx6CAo3IaHNiWHVKSERSS2M/view?usp=sharing&resourcekey=0-sGyqFFTgvFrnVxnOJC8fMQ). Qualipso (IST- FP6-IP-034763),
   Deliverable A1.D2.1.3, 2010.
 - Gordon, T.F. [An Overview of the Carneades Argumentation Support
   System](https://drive.google.com/file/d/0Bx2Wbx6CAo3IVXgzTzl0WjlWc3c/view?usp=sharing). In C.W. Tindale and C. Reed, Dialectics, Dialogue and
