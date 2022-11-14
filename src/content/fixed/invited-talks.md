@@ -2,7 +2,7 @@
   "title": "Invited Talks",
   "sidebar": false,
   "weight": 3,
-  "draft": true
+  "draft": false
 }
 
 An incomplete and out-of-date list of invited talks.
