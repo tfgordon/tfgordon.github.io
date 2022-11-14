@@ -4,12 +4,17 @@ author = "Thomas F. Gordon"
 copyright = "copyright &copy; 2015-2021 Thomas F. Gordon. Creative Commons Attribution-ShareAlike 4.0 International License "
 languageCode = "en-us"  
 # contentdir = "content"
-theme = "blackburn" #  "ananke"  # "blackburn"
+theme = "blackburn" #  "ananke"  
 # layoutdir = "layouts"
 publishdir =  ".."
 builddrafts = true
 canonifyurls = true
 paginate = 10
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "upgrade-insecure-requests"
 
 [permalinks] 
   post = ":year/:month/:day/:title/"
