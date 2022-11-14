@@ -3,6 +3,7 @@
 echo -e "Deploying updates to GitHub..."
 
 # Build the project.
+cd src 
 hugo
 
 # Add changes to git.
@@ -18,7 +19,7 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
-
+git subtree push --prefix pub origin gh-pages
 
 
 
