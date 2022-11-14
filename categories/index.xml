@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Thomas F. Gordon</title>
-    <link>https://tfgordon.github.io/categories/</link>
+    <link>https://www.tfgordon.de/categories/</link>
     <description>Recent content in Categories on Thomas F. Gordon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>copyright &amp;copy; 2015-2021 Thomas F. Gordon. Creative Commons Attribution-ShareAlike 4.0 International License </copyright><atom:link href="https://tfgordon.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>copyright &amp;copy; 2015-2021 Thomas F. Gordon. Creative Commons Attribution-ShareAlike 4.0 International License </copyright><atom:link href="https://www.tfgordon.de/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

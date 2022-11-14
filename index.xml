@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas F. Gordon</title>
-    <link>https://tfgordon.github.io/</link>
+    <link>https://www.tfgordon.de/</link>
     <description>Recent content on Thomas F. Gordon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2015-2021 Thomas F. Gordon. Creative Commons Attribution-ShareAlike 4.0 International License </copyright>
-    <lastBuildDate>Sun, 25 Apr 2021 16:03:52 +0200</lastBuildDate><atom:link href="https://tfgordon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Apr 2021 16:03:52 +0200</lastBuildDate><atom:link href="https://www.tfgordon.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Invited Talks</title>
-      <link>https://tfgordon.github.io/invited-talks/</link>
+      <link>https://www.tfgordon.de/invited-talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tfgordon.github.io/invited-talks/</guid>
+      <guid>https://www.tfgordon.de/invited-talks/</guid>
       <description>An incomplete and out-of-date list of invited talks.
  &amp;ldquo;From von Jhering to Alexy; From Expert Systems to Mediating Systems&amp;rdquo;; Dutch Conference on Artificial Intelligence and Law (JURIX-94); University of Amsterdam; Amsterdam, The Netherlands; December, 1994. &amp;ldquo;The Zeno Mediation System&amp;rdquo;; 10th Annual Conference of the International Association for Conflict Management (IACM); Bonn, Germany; 1997 &amp;ldquo;The Zeno Argumentation Framework&amp;rdquo;, Dutch Association for Logic; Logic and Law Day; Utrecht, The Netherlands; November 20, 1999.</description>
     </item>
     
     <item>
       <title>Professional Service</title>
-      <link>https://tfgordon.github.io/professional-service/</link>
+      <link>https://www.tfgordon.de/professional-service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tfgordon.github.io/professional-service/</guid>
+      <guid>https://www.tfgordon.de/professional-service/</guid>
       <description>Editorial Boards  Artificial Intelligence and Law; Springer Verlag; Heidelberg (1992-2015) Argument and Computation; IOS Press; Amsterdam Artificial Intelligence Dissertations (DISKI) Akademische Verlagsgesellschaft (AKA); Berlin Encyclopedia of Digital Government; Idea Group IfColog Journal of Logics and their Applications  Associations  Vice President; International Association for Artificial Intelligence and Law (IAAIL), 2004-2006. President; International Association for Artificial Intelligence and Law (IAAIL), 2006-2008. Vice President; Steering Committee of the Computational Models of Argument (COMMA) conference; 2008-2010.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://tfgordon.github.io/publications/</link>
+      <link>https://www.tfgordon.de/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tfgordon.github.io/publications/</guid>
+      <guid>https://www.tfgordon.de/publications/</guid>
       <description>In reverse chronological order:
 2020  Atkinson, K., Bench-Capon, T., Bex, F., Gordon, T.F. et al. (2020). In memoriam Douglas N. Walton: the influence of Doug Walton on AI and law. Artificial Intelligence and Law, 28, 281–326.  2018   Gordon, Thomas F. and Friederich, Horst and Walton, Douglas (2018). Representing Argumentation Schemes with Constraint Handling Rules (CHR). Argument and Computation, 9(2), 91-119.
   Gordon, Thomas F. (2018). Defining argument weighing functions.</description>
@@ -40,28 +40,28 @@
     
     <item>
       <title>Resume</title>
-      <link>https://tfgordon.github.io/resume/</link>
+      <link>https://www.tfgordon.de/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tfgordon.github.io/resume/</guid>
+      <guid>https://www.tfgordon.de/resume/</guid>
       <description>University Degrees and Appointments  University of California; B.A., Psychology; June, 1977 University of California, Davis; King Hall School of Law; Juris Doctor (J.D.); June, 1982 Technischen Hochschule Darmstadt; Dr. rer. nat; Computer Science; June, 1993. Honorary Professor for Argumentation Technology, Department of Mathematics and Natural Science, University of Potsdam, since 2010. Technische Universität Berlin; Habilitation; Intelligent Systems; 2012  Employment History  Research Scientist; Research Center for Information Law; Institute for Applied Information Technology; German National Research Center for Computer Science (GMD); Sankt Augustin, Germany;1983 to 1985 Research Scientist; Expert Systems Division; Institute for Applied Information Technology; German National Research Center for Computer Science (GMD); Sankt Augustin, Germany;1985 to 1999 Senior Research Scientist; Institute for Automous Intelligent Systems; German National Research Center for Computer Science (GMD); Sankt Augustin, Germany; 1999 to 2000 Senior Research Scientist; Fraunhofer Institute for Open Communication Systems (FOKUS); Berlin, Germany; 2001 to 2017.</description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>https://tfgordon.github.io/software/</link>
+      <link>https://www.tfgordon.de/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tfgordon.github.io/software/</guid>
+      <guid>https://www.tfgordon.de/software/</guid>
       <description> Zeno Carneades  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://tfgordon.github.io/contact/</link>
+      <link>https://www.tfgordon.de/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tfgordon.github.io/contact/</guid>
+      <guid>https://www.tfgordon.de/contact/</guid>
       <description>Prof. Dr. Thomas F. Gordon
 email: 9cVUf2 (at) posteo.de
 web: http://www.tfgordon.de
@@ -70,28 +70,28 @@ Note: The email address above is subject to change. Please check back here for a
     
     <item>
       <title>Projects</title>
-      <link>https://tfgordon.github.io/projects/</link>
+      <link>https://www.tfgordon.de/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tfgordon.github.io/projects/</guid>
+      <guid>https://www.tfgordon.de/projects/</guid>
       <description>Carneades – Argument construction, evaluation and visualization. graphical user interface, and a software library for building applications supporting various argumentation tasks. DEMO-net – A European &amp;ldquo;network of excellence&amp;rdquo; on the subject of eDemocracy and eParticipation. Microsoft DUCK – Web-based tool to author and check ISO 19944-style data use statements EAGLE – Enhanced Government Learning Estrella – A European project to develop an open, standards-based platform for Legal Knowledge Systems. IMPACT – Integrated Method for Policy Making Using Argument Modelling and Computer Assisted Text Analysis Qualipso – Quality Platform for Open Source Software MARKOS – The Market for Open Source Software.</description>
     </item>
     
     <item>
       <title>Related</title>
-      <link>https://tfgordon.github.io/related/</link>
+      <link>https://www.tfgordon.de/related/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tfgordon.github.io/related/</guid>
+      <guid>https://www.tfgordon.de/related/</guid>
       <description>Organizations and Conferences  Computational Models of Argument (COMMA) Fraunhofer Institute for Open Communications Systems (FOKUS) GI Fachgruppe Juristische Informatiksysteme International Association for Artificial Intelligence and Law Jurix Foundation RuleML  Argumentation Research Groups  The Agent Applications, Research, and Technology Group of the University of Liverpool The Argumentation Research Group of the University of Dundee  Projects  Dialectical Argumentation Machines – A UK project conducted by the Argumentation Research Group of the University of Dundee.</description>
     </item>
     
     <item>
       <title>COMMA 2016 Proceedings; Formalizing Balancing Arguments</title>
-      <link>https://tfgordon.github.io/2016/09/12/comma-2016-proceedings-formalizing-balancing-arguments/</link>
+      <link>https://www.tfgordon.de/2016/09/12/comma-2016-proceedings-formalizing-balancing-arguments/</link>
       <pubDate>Mon, 12 Sep 2016 11:50:14 +0200</pubDate>
       
-      <guid>https://tfgordon.github.io/2016/09/12/comma-2016-proceedings-formalizing-balancing-arguments/</guid>
+      <guid>https://www.tfgordon.de/2016/09/12/comma-2016-proceedings-formalizing-balancing-arguments/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;http://ebooks.iospress.nl/volume/computational-models-of-argument-proceedings-of-comma-2016&#34;&gt;Proceedings of the 6th International Conference on Computational
 Models of
 Arguments&lt;/a&gt;
@@ -116,20 +116,20 @@ corrects this error.&lt;/p&gt;</description>
     
     <item>
       <title>COMMA 2016 Program</title>
-      <link>https://tfgordon.github.io/2016/07/16/comma-2016-program/</link>
+      <link>https://www.tfgordon.de/2016/07/16/comma-2016-program/</link>
       <pubDate>Sat, 16 Jul 2016 07:56:14 +0200</pubDate>
       
-      <guid>https://tfgordon.github.io/2016/07/16/comma-2016-program/</guid>
+      <guid>https://www.tfgordon.de/2016/07/16/comma-2016-program/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;http://www.ling.uni-potsdam.de/comma2016/index.php?page=program.php&#34;&gt;program&lt;/a&gt;
 of the 2016 Conference on Computational Models of Argument (&lt;a href=&#34;http://www.ling.uni-potsdam.de/comma2016/&#34;&gt;COMMA&lt;/a&gt; is now online.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Slides of my 2007 ICAIL Keynote Address</title>
-      <link>https://tfgordon.github.io/2016/07/16/slides-of-my-2007-icail-keynote-address/</link>
+      <link>https://www.tfgordon.de/2016/07/16/slides-of-my-2007-icail-keynote-address/</link>
       <pubDate>Sat, 16 Jul 2016 07:08:41 +0201</pubDate>
       
-      <guid>https://tfgordon.github.io/2016/07/16/slides-of-my-2007-icail-keynote-address/</guid>
+      <guid>https://www.tfgordon.de/2016/07/16/slides-of-my-2007-icail-keynote-address/</guid>
       <description>&lt;p&gt;Occassionally I get asked for copies of the slides of my keynote
 addess at the 2007 International Conference on Artificial Intelligence
 and Law at Stanford University, with the title &amp;ldquo;20 Years of ICAIL –
@@ -140,10 +140,10 @@ Attribution-ShareAlike 4.0 International)&lt;/p&gt;</description>
     
     <item>
       <title>RuleML Call for Papers</title>
-      <link>https://tfgordon.github.io/2015/02/23/ruleml-call-for-papers/</link>
+      <link>https://www.tfgordon.de/2015/02/23/ruleml-call-for-papers/</link>
       <pubDate>Mon, 23 Feb 2015 13:50:19 +0100</pubDate>
       
-      <guid>https://tfgordon.github.io/2015/02/23/ruleml-call-for-papers/</guid>
+      <guid>https://www.tfgordon.de/2015/02/23/ruleml-call-for-papers/</guid>
       <description>&lt;p&gt;The submission deadline for the &lt;a href=&#34;http://www.csw.inf.fu-berlin.de/ruleml2015/important-dates.html&#34;&gt;RuleML
 2015&lt;/a&gt;
 is approaching.  The annual International Web Rule Symposium (RuleML)
@@ -155,19 +155,19 @@ Germany.&lt;/p&gt;</description>
     
     <item>
       <title>New Website and Blog</title>
-      <link>https://tfgordon.github.io/2015/02/14/new-website-and-blog/</link>
+      <link>https://www.tfgordon.de/2015/02/14/new-website-and-blog/</link>
       <pubDate>Sat, 14 Feb 2015 17:56:13 +0200</pubDate>
       
-      <guid>https://tfgordon.github.io/2015/02/14/new-website-and-blog/</guid>
+      <guid>https://www.tfgordon.de/2015/02/14/new-website-and-blog/</guid>
       <description>This will be my new personal website, hosted on Github. This is work in progress. When it is ready, I will redirect my tfgordon.de domain name to point here.</description>
     </item>
     
     <item>
       <title>license</title>
-      <link>https://tfgordon.github.io/license/</link>
+      <link>https://www.tfgordon.de/license/</link>
       <pubDate>Tue, 20 Jan 2015 10:56:00 +0100</pubDate>
       
-      <guid>https://tfgordon.github.io/license/</guid>
+      <guid>https://www.tfgordon.de/license/</guid>
       <description>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
     </item>
     
