@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Thomas F. Gordon</title>
     <link>https://www.tfgordon.de/</link>
@@ -120,8 +120,7 @@ corrects this error.&lt;/p&gt;</description>
       <pubDate>Sat, 16 Jul 2016 07:56:14 +0200</pubDate>
       
       <guid>https://www.tfgordon.de/2016/07/16/comma-2016-program/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;http://www.ling.uni-potsdam.de/comma2016/index.php?page=program.php&#34;&gt;program&lt;/a&gt;
-of the 2016 Conference on Computational Models of Argument (&lt;a href=&#34;http://www.ling.uni-potsdam.de/comma2016/&#34;&gt;COMMA&lt;/a&gt; is now online.&lt;/p&gt;</description>
+      <description>2016 Computational Models of Argument Conference Program</description>
     </item>
     
     <item>
@@ -130,12 +129,7 @@ of the 2016 Conference on Computational Models of Argument (&lt;a href=&#34;http
       <pubDate>Sat, 16 Jul 2016 07:08:41 +0201</pubDate>
       
       <guid>https://www.tfgordon.de/2016/07/16/slides-of-my-2007-icail-keynote-address/</guid>
-      <description>&lt;p&gt;Occassionally I get asked for copies of the slides of my keynote
-addess at the 2007 International Conference on Artificial Intelligence
-and Law at Stanford University, with the title &amp;ldquo;20 Years of ICAIL –
-Reflections on the Field of AI and Law&amp;rdquo;. They are now online, in &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/v14TktIJgxTlU26&#34;&gt;PDF&lt;/a&gt;
-and editable &lt;a href=&#34;https://owncloud.fokus.fraunhofer.de/index.php/s/8kwKLYC4fwWuRsk&#34;&gt;OpenDocument&lt;/a&gt; formats. (License: Creative Commons
-Attribution-ShareAlike 4.0 International)&lt;/p&gt;</description>
+      <description>Slides of my ICAIL 2007 Keynote</description>
     </item>
     
     <item>

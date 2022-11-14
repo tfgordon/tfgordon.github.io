@@ -1,1 +1,364 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
 
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Fixeds | Thomas F. Gordon</title>
+<meta name="keywords" content="">
+<meta name="description" content="Fixeds - Thomas F. Gordon">
+<meta name="author" content="">
+<link rel="canonical" href="https://www.tfgordon.de/fixed/">
+<link crossorigin="anonymous" href="https://www.tfgordon.de/assets/css/stylesheet.abc7c82c3d415a6df50430738d1cbcc4c76fea558bc5a0c830d3babf78167a35.css" integrity="sha256-q8fILD1BWm31BDBzjRy8xMdv6lWLxaDIMNO6v3gWejU=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://www.tfgordon.de/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.tfgordon.de/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.tfgordon.de/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://www.tfgordon.de/apple-touch-icon.png">
+<link rel="mask-icon" href="https://www.tfgordon.de/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="https://www.tfgordon.de/fixed/index.xml">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="Fixeds" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.tfgordon.de/fixed/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Fixeds"/>
+<meta name="twitter:description" content=""/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Fixeds",
+      "item": "https://www.tfgordon.de/fixed/"
+    }
+  ]
+}
+</script>
+</head>
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://www.tfgordon.de" accesskey="h" title="Thomas F. Gordon (Alt + H)">Thomas F. Gordon</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://www.tfgordon.de/post/" title="Posts">
+                    <span><i class='fa fa-list fa-fw'></i>Posts</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.tfgordon.de/resume/" title="Resume">
+                    <span><i class='fa fa-file fa-fw'></i>Resume</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.tfgordon.de/publications/" title="Publications">
+                    <span><i class='fa fa-list fa-fw'></i>Publications</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.tfgordon.de/software/" title="Software">
+                    <span><i class='fa fa-list fa-fw'></i>Software</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.tfgordon.de/projects/" title="Projects">
+                    <span><i class='fa fa-list fa-fw'></i>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.tfgordon.de/professional-service/" title="Service">
+                    <span><i class='fa fa-list fa-fw'></i>Service</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.tfgordon.de/related/" title="Related">
+                    <span><i class='fa fa-list fa-fw'></i>Related</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.tfgordon.de/contact/" title="Contact">
+                    <span><i class='fa fa-phone fa-fw'></i>Contact</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.tfgordon.de/" title="Home">
+                    <span><i class='fa fa-file fa-fw'></i>Home</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header">
+  <h1>
+    Fixeds
+  </h1>
+</header>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Invited Talks<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>An incomplete and out-of-date list of invited talks.
+ “From von Jhering to Alexy; From Expert Systems to Mediating Systems”; Dutch Conference on Artificial Intelligence and Law (JURIX-94); University of Amsterdam; Amsterdam, The Netherlands; December, 1994. “The Zeno Mediation System”; 10th Annual Conference of the International Association for Conflict Management (IACM); Bonn, Germany; 1997 “The Zeno Argumentation Framework”, Dutch Association for Logic; Logic and Law Day; Utrecht, The Netherlands; November 20, 1999....</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Invited Talks" href="https://www.tfgordon.de/invited-talks/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Professional Service
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Editorial Boards  Artificial Intelligence and Law; Springer Verlag; Heidelberg (1992-2015) Argument and Computation; IOS Press; Amsterdam Artificial Intelligence Dissertations (DISKI) Akademische Verlagsgesellschaft (AKA); Berlin Encyclopedia of Digital Government; Idea Group IfColog Journal of Logics and their Applications  Associations  Vice President; International Association for Artificial Intelligence and Law (IAAIL), 2004-2006. President; International Association for Artificial Intelligence and Law (IAAIL), 2006-2008. Vice President; Steering Committee of the Computational Models of Argument (COMMA) conference; 2008-2010....</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Professional Service" href="https://www.tfgordon.de/professional-service/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Publications
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>In reverse chronological order:
+2020  Atkinson, K., Bench-Capon, T., Bex, F., Gordon, T.F. et al. (2020). In memoriam Douglas N. Walton: the influence of Doug Walton on AI and law. Artificial Intelligence and Law, 28, 281–326.  2018   Gordon, Thomas F. and Friederich, Horst and Walton, Douglas (2018). Representing Argumentation Schemes with Constraint Handling Rules (CHR). Argument and Computation, 9(2), 91-119.
+  Gordon, Thomas F. (2018). Defining argument weighing functions....</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Publications" href="https://www.tfgordon.de/publications/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Resume
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>University Degrees and Appointments  University of California; B.A., Psychology; June, 1977 University of California, Davis; King Hall School of Law; Juris Doctor (J.D.); June, 1982 Technischen Hochschule Darmstadt; Dr. rer. nat; Computer Science; June, 1993. Honorary Professor for Argumentation Technology, Department of Mathematics and Natural Science, University of Potsdam, since 2010. Technische Universität Berlin; Habilitation; Intelligent Systems; 2012  Employment History  Research Scientist; Research Center for Information Law; Institute for Applied Information Technology; German National Research Center for Computer Science (GMD); Sankt Augustin, Germany;1983 to 1985 Research Scientist; Expert Systems Division; Institute for Applied Information Technology; German National Research Center for Computer Science (GMD); Sankt Augustin, Germany;1985 to 1999 Senior Research Scientist; Institute for Automous Intelligent Systems; German National Research Center for Computer Science (GMD); Sankt Augustin, Germany; 1999 to 2000 Senior Research Scientist; Fraunhofer Institute for Open Communication Systems (FOKUS); Berlin, Germany; 2001 to 2017....</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Resume" href="https://www.tfgordon.de/resume/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Software
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> Zeno Carneades  </p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Software" href="https://www.tfgordon.de/software/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Contact
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Prof. Dr. Thomas F. Gordon
+email: 9cVUf2 (at) posteo.de
+web: http://www.tfgordon.de
+Note: The email address above is subject to change. Please check back here for a current email address if your message bounces.</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Contact" href="https://www.tfgordon.de/contact/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Projects
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Carneades – Argument construction, evaluation and visualization. graphical user interface, and a software library for building applications supporting various argumentation tasks. DEMO-net – A European “network of excellence” on the subject of eDemocracy and eParticipation. Microsoft DUCK – Web-based tool to author and check ISO 19944-style data use statements EAGLE – Enhanced Government Learning Estrella – A European project to develop an open, standards-based platform for Legal Knowledge Systems. IMPACT – Integrated Method for Policy Making Using Argument Modelling and Computer Assisted Text Analysis Qualipso – Quality Platform for Open Source Software MARKOS – The Market for Open Source Software....</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Projects" href="https://www.tfgordon.de/projects/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Related
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Organizations and Conferences  Computational Models of Argument (COMMA) Fraunhofer Institute for Open Communications Systems (FOKUS) GI Fachgruppe Juristische Informatiksysteme International Association for Artificial Intelligence and Law Jurix Foundation RuleML  Argumentation Research Groups  The Agent Applications, Research, and Technology Group of the University of Liverpool The Argumentation Research Group of the University of Dundee  Projects  Dialectical Argumentation Machines – A UK project conducted by the Argumentation Research Group of the University of Dundee....</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Related" href="https://www.tfgordon.de/related/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>license<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</p>
+  </div>
+  <footer class="entry-footer"><span title='2015-01-20 10:56:00 +0100 CET'>20 Jan 2015, 10:56</span></footer>
+  <a class="entry-link" aria-label="post link to license" href="https://www.tfgordon.de/license/"></a>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>copyright © 2015-2021 Thomas F. Gordon. Creative Commons Attribution-ShareAlike 4.0 International License</span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
