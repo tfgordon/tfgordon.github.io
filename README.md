@@ -1,1 +1,1 @@
-These are the source files of Tom Gordon's home page.
+This project mangages the content of Tom Godon's web site.
