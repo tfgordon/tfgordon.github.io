@@ -6,7 +6,7 @@
 
 Prof. Dr. Thomas F. Gordon   
 email: 9cVUf2 (at) posteo.de   
-web: <http://www.tfgordon.de>
+web: <http://www.tfgordon.de  >
 Mastodon (Fediverse): @tfgordon@vermont.masto.host
 
 Note: The email address above is subject to change. Please check
