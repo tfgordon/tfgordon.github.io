@@ -1,12 +1,9 @@
-+++
-title = "Thomas F. Gordon"
-description = "Argumentation Technology"
-date = "2021-04-25T16:03:52+02:00"
-draft = false
-tags = []
-topics = []
-+++
-
+---
+layout: post
+title: Thomas F. Gordon
+description: Argumentation Technology
+date: 2021-04-25T16:03:52+02:00
+---
 
 Tom Gordon is a computer scientist and lawyer who has conducted research on argumentation technology in the fields
 of "artificial intelligence and law" and "computational models of
