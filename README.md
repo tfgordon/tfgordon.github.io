@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: Thomas F. Gordon
 description: Argumentation Technology
 date: 2021-04-25T16:03:52+02:00
