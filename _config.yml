@@ -2,5 +2,5 @@
 remote_theme: pages-themes/cayman
 plugins:
   - jekyll-remote-theme 
-title: Thomas F. Gordon
-description: Argumentation Technology
+title: Argumentation Technology
+description: Thomas F. Gordon
