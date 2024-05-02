@@ -4,15 +4,15 @@ description: Argumentation Technology
 date: 2021-04-25T16:03:52+02:00
 ---
 
-- [Contact](https://contact)
-- [Invited Talks](https://invited-talks)
-- [License](https://license)
-- [Projects](https://projects)
-- [Publications](https://publications)
-- [Related](https://related)
-- [Resume](https://resume)
-- [Service](https://service)
-- [Software](https//software)
+- [Contact](/contact)
+- [Invited Talks](/invited-talks)
+- [License](/license)
+- [Projects](/projects)
+- [Publications](/publications)
+- [Related](/related)
+- [Resume](/resume)
+- [Service](/service)
+- [Software](/software)
 
 Tom Gordon is a computer scientist and lawyer who has conducted research on argumentation technology in the fields
 of "artificial intelligence and law" and "computational models of
