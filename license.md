@@ -1,6 +1,5 @@
 ---
-date: 2015-01-20T10:56:00+01:00
-title = license
+description: License
 ---
 
 <a rel="license"

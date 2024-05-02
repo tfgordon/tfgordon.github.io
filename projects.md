@@ -1,7 +1,5 @@
 ---
-title: Projects
-sidebar: true
-weight: 4
+description: Projects
 ---
 
 - [Carneades](https://carneades.github.io/) – Argument construction,

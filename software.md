@@ -1,7 +1,5 @@
 ---
-title: Software
-sidebar: true
-weight: 3
+description: Software
 ---
 
 - [Zeno](https://github.com/tfgordon/zeno)

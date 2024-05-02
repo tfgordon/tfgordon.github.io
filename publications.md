@@ -1,7 +1,5 @@
 ---
-title: Publications
-sidebar: true
-weight: 3
+description: Publications
 ---
 
 In reverse chronological order:

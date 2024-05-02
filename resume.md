@@ -1,7 +1,5 @@
 ---
-title: Resume
-sidebar: true
-weight: 3
+description: Resume
 ---
 
 # University Degrees and Appointments

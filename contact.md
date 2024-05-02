@@ -1,7 +1,5 @@
 ---
-title: Contact
-sidebar: true
-weight: 4
+description: Contact
 ---
 
 Prof. Dr. Thomas F. Gordon   

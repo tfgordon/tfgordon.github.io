@@ -1,7 +1,5 @@
 ---
-title: Related
-sidebar: true
-weight: 4
+description: Related
 ---
 
 # Organizations and Conferences

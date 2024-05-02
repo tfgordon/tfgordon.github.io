@@ -1,7 +1,5 @@
 ---
-title: Invited Talks
-sidebar: false
-weight: 3
+description: Invited Talks
 ---
 
 An incomplete and out-of-date list of invited talks.

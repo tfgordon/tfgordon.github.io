@@ -1,7 +1,5 @@
---
-title: Professional Service
-sidebar: true
-weight: 3
+---
+description: Professional Service
 ---
 
 # Editorial Boards
