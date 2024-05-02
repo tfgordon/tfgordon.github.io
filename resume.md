@@ -1,4 +1,5 @@
 ---
+title: Thomas F. Gordon
 description: Resume
 ---
 
