@@ -1,5 +1,5 @@
 # remote_theme: pages-themes/architect@v0.2.0
-theme: cayman
+remote_theme: pages-themes/cayman
 plugins:
   - jekyll-remote-theme 
 title: Thomas F. Gordon
