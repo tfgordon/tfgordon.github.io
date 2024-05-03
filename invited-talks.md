@@ -2,7 +2,7 @@
 description: Invited Talks
 ---
 
-An incomplete and out-of-date list of invited talks.
+Selected invited talks.
 
 - "From von Jhering to Alexy; From Expert Systems to Mediating
   Systems"; Dutch Conference on Artificial Intelligence and Law
