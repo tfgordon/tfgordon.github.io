@@ -2,8 +2,6 @@
 description: License
 ---
 
-![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
 This website is licensed under a [Creative Commons
 Attribution-ShareAlike 4.0 International License](
 href="http://creativecommons.org/licenses/by-sa/4.0).
