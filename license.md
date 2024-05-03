@@ -2,7 +2,7 @@
 description: License
 ---
 
-![Creative Commons License]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 This website is licensed under a [Creative Commons
 Attribution-ShareAlike 4.0 International License](
