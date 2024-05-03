@@ -7,7 +7,7 @@ In reverse chronological order:
 # 2022
 
 - Bench-Capon, T., and Gordon, T.F. (2022) [Implementing a Theory of a Legal
-Domain.](_publications/BenchCapon-Gordon-JURIX-2022.pdf) Legal Knowledge and Information Systems
+Domain.](publications/BenchCapon-Gordon-JURIX-2022.pdf) Legal Knowledge and Information Systems
   (JURIX 2022). IOS Press, pp. 13-22. 
 
 # 2020
