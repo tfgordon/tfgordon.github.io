@@ -4,10 +4,16 @@ description: Publications
 
 In reverse chronological order:
 
+# 2022
+
+- Bench-Capon, T., and Gordon, T.F. (2022) [Implementing a Theory of a Legal
+Domain.](_publications/BenchCapon-Gordon-JURIX-2022.pdf) Legal Knowledge and Information Systems
+  (JURIX 2022). IOS Press, pp. 13-22. 
+
 # 2020
 
 - Atkinson, K., Bench-Capon, T., Bex, F., Gordon, T.F. et al. (2020). [In memoriam Douglas N. Walton: 
-the influence of Doug Walton on AI and law. Artificial Intelligence and Law](https://rdcu.be/ccRWs), 28, 281–326.
+the influence of Doug Walton on AI and law.](https://rdcu.be/ccRWs) Artificial Intelligence and Law, 28, 281–326.
 
 # 2018
 
