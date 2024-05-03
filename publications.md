@@ -69,7 +69,7 @@ the influence of Doug Walton on AI and law. Artificial Intelligence and Law](htt
 
 - Walton, Douglas and Gordon, Thomas F. (2015). [Formalizing Informal Logic](publications/WaltonGordon2015a.pdf). Informal Logic, 35(4), 508-538.
 - Bench-Capon, Trevor and Gordon, Thomas F. (2015). [Two Tools for
-  Prototyping Legal CBR](publications/WaltonGordon2015a.pdf). Legal Knowledge and Information Systems
+  Prototyping Legal CBR](publications/BenchCaponGordon2015b.pdf). Legal Knowledge and Information Systems
   (JURIX 2015). IOS Press, pp. 177-178. 
 - Bench-Capon, Trevor and Gordon, Thomas F. (2015). [Tools for Rapid
   Prototyping of Legal Cased-Based Reasoning](publications/BenchCaponGordon2015a.pdf) (ULCS-15-005). Liverpool,
