@@ -434,7 +434,7 @@ the influence of Doug Walton on AI and law. Artificial Intelligence and Law](htt
 
 # 1986
 
-- Gordon, Thomas F. "[The Role of Exceptions in Models of the Law ."
+- Gordon, Thomas F. "[The Role of Exceptions in Models of the Law.](publications/Gordon1986a.pdf)"
   Formalisierung im Recht und Ansätze juristischer
-  Expertensysteme](publications/Gordon1986a.pdf). Ed. R. Traunmüller H. Fiedler. Munich, 1986. 52-59.
+  Expertensysteme. Ed. R. Traunmüller H. Fiedler. Munich, 1986. 52-59.
 
