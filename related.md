@@ -54,6 +54,7 @@ excuse any omissions!
 - Thorne McCarty
 - Ann Macintosh
 - Oliver Märker
+- Jonas Pattberg
 - Henry Prakken
 - Gerald Quirchmayr
 - Gernot Richter
